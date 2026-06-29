@@ -1,0 +1,560 @@
+canonical_identifier: bkk:krp/KR3a0001/v1
+canonical_location: https://kanripo.org/bkk/KR3a0001/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 孔子家語
+  identifiers:
+    krp: KR3a0001
+  tags:
+    tls-internal:
+    - tr-en
+    - swl
+    kr-categories: KR3a
+  source:
+    repository: tls-texts
+    path: data/tls/KR3a0001.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+- short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR3a0001_001.yaml, hash: 'sha256:01a873f4cbf33d05abc856a80949fa087fd7df9027e7e7149a551346608190ae'}
+  - {seq: 2, filename: KR3a0001_002.yaml, hash: 'sha256:e03a1b5af7a19797716858e820da20e08cfcdec37a6a7a73d676b3e760e63c69'}
+  - {seq: 3, filename: KR3a0001_003.yaml, hash: 'sha256:2150840ab04ca2374c41a1f4bb3477ccdcdd5af5efb15fc6062236f7f135032d'}
+  - {seq: 4, filename: KR3a0001_004.yaml, hash: 'sha256:d20e87abba0161c103af8969599a2cde35429a1cb686a5c8443c053152a7c786'}
+  - {seq: 5, filename: KR3a0001_005.yaml, hash: 'sha256:ba8f71ce1574a1351cc1cec57b2d771cb1ae57a5d9c7a8014e480b848819f118'}
+  - {seq: 6, filename: KR3a0001_006.yaml, hash: 'sha256:cb8f7b24806f175d61a0ae8dd4601eb6afcc19b2cdcf4bc42d7e24aaf1426458'}
+  - {seq: 7, filename: KR3a0001_007.yaml, hash: 'sha256:f748f7fb3062a53d5247b70b290b8543768550cdc5e580d3b1c1cbcf99b28f7c'}
+  - {seq: 8, filename: KR3a0001_008.yaml, hash: 'sha256:8ffa31687b067dc407e5c1dd934a2d021de0a917a9db04f394ce26853665c0c2'}
+  - {seq: 9, filename: KR3a0001_009.yaml, hash: 'sha256:7b14be4555f1d9836a14e2930d863ab680d551c147bdc6525d6bb087515bd762'}
+  - {seq: 10, filename: KR3a0001_010.yaml, hash: 'sha256:06270c799735ba17802cc6305466e1dd1626f4efb382e3dda28492453a64a483'}
+  - {seq: 11, filename: KR3a0001_011.yaml, hash: 'sha256:c3fb7de0456656c1eefb23520437ea585ca73e4893f57915af3805cddd8822fb'}
+  - {seq: 12, filename: KR3a0001_012.yaml, hash: 'sha256:4bc045c07ce30011cab913d7dfceeae7ce4b2ece1c4270ef78532adba49befd9'}
+  - {seq: 13, filename: KR3a0001_013.yaml, hash: 'sha256:0da9469cc064d9ae5b7655d16439b1898eef23161bebdf26defa0f6ac3395ce0'}
+  - {seq: 14, filename: KR3a0001_014.yaml, hash: 'sha256:623910aedd823631baf8fdf8946abbdac6ad99964930a90268db183488533433'}
+  - {seq: 15, filename: KR3a0001_015.yaml, hash: 'sha256:a1728c42421d6172c76153be4df6b5a19d9161165b4c7288e1db498754e44899'}
+  - {seq: 16, filename: KR3a0001_016.yaml, hash: 'sha256:5c497c5c1d4ee443715b32da9a34ff1bb253ae2934b053c5858117302493f8f9'}
+  - {seq: 17, filename: KR3a0001_017.yaml, hash: 'sha256:3ce144e0b2e6858f96d784e0382341d185dc734c5d9fc7f90bd13591cfd98d90'}
+  - {seq: 18, filename: KR3a0001_018.yaml, hash: 'sha256:9a7324a53fa5ac37bf2e1e4c6487e6efd9b985ec6889709d845b62697d445bd6'}
+  - {seq: 19, filename: KR3a0001_019.yaml, hash: 'sha256:86c87526560bae2a8c48af1988d37ca8b7d87bda3ab758a566cfa8a235f0dde2'}
+  - {seq: 20, filename: KR3a0001_020.yaml, hash: 'sha256:1bbe3644b226b3fdafddb47c8767c376e6f45dbe9066c86fa072003af44f46e8'}
+  - {seq: 21, filename: KR3a0001_021.yaml, hash: 'sha256:7bda9e07ce57efa0953e27a01b65dfe38f6b16d6b17530a4178440c95c61f096'}
+  - {seq: 22, filename: KR3a0001_022.yaml, hash: 'sha256:1c3ded5407959ec179cb68ea319ec88ecaa0f86cbd3afc22bc8e43c68057056e'}
+  - {seq: 23, filename: KR3a0001_023.yaml, hash: 'sha256:7d10c79a68146688d60733cf2f7949c6efed4fe992a0095654b9986e9b58e19b'}
+  - {seq: 24, filename: KR3a0001_024.yaml, hash: 'sha256:394f991cdb7513b7eb533212e151210e757a6d55afa045473f5365af273b4a33'}
+  - {seq: 25, filename: KR3a0001_025.yaml, hash: 'sha256:9eb527a0eb724cbd04f79a5d630a73b2282ba44d652b488b85797178068602a8'}
+  - {seq: 26, filename: KR3a0001_026.yaml, hash: 'sha256:30347dee5080dc19b070edca3338da1a7089705881469fdb6a1a7697878e6580'}
+  - {seq: 27, filename: KR3a0001_027.yaml, hash: 'sha256:31cf26b3c76903cb073be1b9849598c64cffc8bc82800868cd2b29eb160e387d'}
+  - {seq: 28, filename: KR3a0001_028.yaml, hash: 'sha256:a8abb22fcdfa04d4653f76e99302a5b99a6c19dc6f935f77c691ab108e221e2c'}
+  - {seq: 29, filename: KR3a0001_029.yaml, hash: 'sha256:125e3bb225801f0677ea8b9402bf24f69f048fd5601ac6d15ce0d102eb3d0e36'}
+  - {seq: 30, filename: KR3a0001_030.yaml, hash: 'sha256:a133d555d8108f881ac0273d28383da6fb14c1de575745fccbbefc571b98c2f4'}
+  - {seq: 31, filename: KR3a0001_031.yaml, hash: 'sha256:4bb69a85c7978b1b02e4df5dbf866bb8140c9fe758f38b01ec54679af30b3f8e'}
+  - {seq: 32, filename: KR3a0001_032.yaml, hash: 'sha256:a8e10e305337d931bc0845cde668f6445667e7acdf7810a0191566ea06a6f0dd'}
+  - {seq: 33, filename: KR3a0001_033.yaml, hash: 'sha256:6ce4b9eeded4fc42db1a5c131fcc81d898863b17efd2ed4373183160209eef38'}
+  - {seq: 34, filename: KR3a0001_034.yaml, hash: 'sha256:f427fffd83cf623d28ac07b1d144e6851d3a9ee035beb0180a34ca4c5745f877'}
+  - {seq: 35, filename: KR3a0001_035.yaml, hash: 'sha256:868e5afa82c0333e8b78b1c3ee96be04d9f1001a4aa78137d646a9ebef1f76d6'}
+  - {seq: 36, filename: KR3a0001_036.yaml, hash: 'sha256:40e8cc5ef8b5ca4f1948622dfe0642c55a96cb1ac0b54957019e170d3dca4f8c'}
+  - {seq: 37, filename: KR3a0001_037.yaml, hash: 'sha256:8090660e002a52345956327afedbe220af423029a6fd9db6d014b2dedcf72e0d'}
+  - {seq: 38, filename: KR3a0001_038.yaml, hash: 'sha256:9a8464d893252f22691bfa0c1e65f3942ddd9ea1bd969023a64824c2372a75be'}
+  - {seq: 39, filename: KR3a0001_039.yaml, hash: 'sha256:b88dfd044a77d5ed3c7784d493382eb154a663f4304dfc2f14da53ac6da951d5'}
+  - {seq: 40, filename: KR3a0001_040.yaml, hash: 'sha256:7684434bb5078fe6c7fb498b8841ae6d3497473df6e4fde8796894f0616d1edf'}
+  - {seq: 41, filename: KR3a0001_041.yaml, hash: 'sha256:31366efb7d7a0ba7c4678b16a89c314ea856983ebae85b3311c07184714e29d1'}
+  - {seq: 42, filename: KR3a0001_042.yaml, hash: 'sha256:eca95cb106a9034530d20bab11abc698bc7f5fb8cc0d67755879770dc46e7957'}
+  - {seq: 43, filename: KR3a0001_043.yaml, hash: 'sha256:fc403f15fe431b2b8c3a45a27987be26b3fa4613d66f77dbf241e1856c1f18ef'}
+  - {seq: 44, filename: KR3a0001_044.yaml, hash: 'sha256:953154a53128515fab4b48b438b93c601cc840e59fa88d987fd2b2654b400d45'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3a0001_001.markers.yaml, hash: 'sha256:ef1bb765d10e8110182e0baba462aeef26f65530d97dac8138c14bbd21b4518b'}
+  - {seq: 2, role: markers, filename: assets/KR3a0001_002.markers.yaml, hash: 'sha256:da9602c8d6a92fd137447c7118d8d7d614bd3a1245bfb51f9e969e64d6775d83'}
+  - {seq: 3, role: markers, filename: assets/KR3a0001_003.markers.yaml, hash: 'sha256:e94dd78e9ee265479d9caed6f36a30945546ca7cfda56a916d52ab60ce2b800d'}
+  - {seq: 5, role: markers, filename: assets/KR3a0001_005.markers.yaml, hash: 'sha256:5136cc494c5bc6662860bb498c582a338c3494f5581808a0e0855d5a35a26d20'}
+  - {seq: 6, role: markers, filename: assets/KR3a0001_006.markers.yaml, hash: 'sha256:9b5debc94c8bc29b4a6a5f76e39195ad36c11f60cd0b64c1b46460d99d01d0e9'}
+  - {seq: 7, role: markers, filename: assets/KR3a0001_007.markers.yaml, hash: 'sha256:8d430d92a11aaf4a8ddd6591c06a025c9025129798e4c9446234d99555013c2f'}
+  - {seq: 8, role: markers, filename: assets/KR3a0001_008.markers.yaml, hash: 'sha256:abab2a34685746db7cff9bf2a3b6cb31da154fed5ac394bb06ad02479c94f23e'}
+  - {seq: 9, role: markers, filename: assets/KR3a0001_009.markers.yaml, hash: 'sha256:2cae5e6f0b7e72313f6d8b6e5854aa408ac9d97bb503995be83ea8d029b78c5e'}
+  - {seq: 10, role: markers, filename: assets/KR3a0001_010.markers.yaml, hash: 'sha256:31d245bf3614c4d2f023de20ee3ad012a4b2faa82fe525daf687077b6363f53c'}
+  - {seq: 11, role: markers, filename: assets/KR3a0001_011.markers.yaml, hash: 'sha256:cfd28a92770b580045654f4333bd2072a62ed4c5a33e610ca2d04533b06ce355'}
+  - {seq: 12, role: markers, filename: assets/KR3a0001_012.markers.yaml, hash: 'sha256:59de02ffe83a19291a0fa11ec58b4098b7707a248156a12d635c8df293111328'}
+  - {seq: 13, role: markers, filename: assets/KR3a0001_013.markers.yaml, hash: 'sha256:6a70ba96d0ea7a276047adfd1d511886df4d83282a6d7168b848ce25f3803b04'}
+  - {seq: 14, role: markers, filename: assets/KR3a0001_014.markers.yaml, hash: 'sha256:31e62e132a212a20b0725b450551fcd66c7b7f779c637e9466adc513a35fceac'}
+  - {seq: 15, role: markers, filename: assets/KR3a0001_015.markers.yaml, hash: 'sha256:782f53f71a55b353a964c6f39c0d322040e9e0c98336a1a903205feb6028a4ba'}
+  - {seq: 16, role: markers, filename: assets/KR3a0001_016.markers.yaml, hash: 'sha256:4140ec174ef9e154748f61d69ffe6931d78f919f223aee293af9efffcd5aadad'}
+  - {seq: 17, role: markers, filename: assets/KR3a0001_017.markers.yaml, hash: 'sha256:2ab2b8a117b70219b26be7560d2670527ce0075e4ed5c9d7da46580ab1d289bf'}
+  - {seq: 18, role: markers, filename: assets/KR3a0001_018.markers.yaml, hash: 'sha256:22defd45dbb1ec7f7df947ddf00117844406a164746a2dff1a862b59db6e433b'}
+  - {seq: 19, role: markers, filename: assets/KR3a0001_019.markers.yaml, hash: 'sha256:bb22a461e761eb1dbcb02ff3922908d55010ea75beafdd856b45da1cd1cb051b'}
+  - {seq: 20, role: markers, filename: assets/KR3a0001_020.markers.yaml, hash: 'sha256:a08173d95c9115f66e4228d4ec2781f0a3fd8ddce8396d3c82815f33e439c5db'}
+  - {seq: 21, role: markers, filename: assets/KR3a0001_021.markers.yaml, hash: 'sha256:d89abbdcdd226dfff303487c141fdef9e3e3def341ab9b55c5495205d36b1c34'}
+  - {seq: 22, role: markers, filename: assets/KR3a0001_022.markers.yaml, hash: 'sha256:04a1b022d57fe9becc715ac3dbe03fa18f68c8480e43c4f734cd795975e0bdca'}
+  - {seq: 23, role: markers, filename: assets/KR3a0001_023.markers.yaml, hash: 'sha256:c3a01b048473e4b7b57cd6a0549f94805e1b91392c2aa4993e9722d5738ab3dd'}
+  - {seq: 24, role: markers, filename: assets/KR3a0001_024.markers.yaml, hash: 'sha256:4cecc0a8ec67ccbec98302439c35c68145a45cca0a33a802c04af6bb71e37074'}
+  - {seq: 25, role: markers, filename: assets/KR3a0001_025.markers.yaml, hash: 'sha256:ddd79a33b9c81f82e56ad27cf634c9ac9b52ab8c884d2403bc80f4762c9c3822'}
+  - {seq: 26, role: markers, filename: assets/KR3a0001_026.markers.yaml, hash: 'sha256:490bb64ca361db78f901f6ba280931644f45a10c86f1567c0669c15e6b2243cd'}
+  - {seq: 27, role: markers, filename: assets/KR3a0001_027.markers.yaml, hash: 'sha256:31fc779ea8f0df5f9ccf84a43a30a7f8672e04dfca11543a0295047c6ce4a9dc'}
+  - {seq: 28, role: markers, filename: assets/KR3a0001_028.markers.yaml, hash: 'sha256:fbe88fe3dfd3aa9a085689afc5fb709bb83563934eed6eab2f1b6991e6bd3021'}
+  - {seq: 29, role: markers, filename: assets/KR3a0001_029.markers.yaml, hash: 'sha256:b0b781729f679a595e643991906bd175904cd86bd4e1b03beb073f8d068fa766'}
+  - {seq: 30, role: markers, filename: assets/KR3a0001_030.markers.yaml, hash: 'sha256:9793cd8cc5a0dc3158399332eab31c051fe371723665a83f9ab8c6b20f4a02f7'}
+  - {seq: 31, role: markers, filename: assets/KR3a0001_031.markers.yaml, hash: 'sha256:7bb34e931eb73dc8f556f96ef795fc264b2924cc738d7b9c9ce8ff3b53b6ad8f'}
+  - {seq: 32, role: markers, filename: assets/KR3a0001_032.markers.yaml, hash: 'sha256:1192984d7ca2eaf96dd5068e03902f1efdc54ff96ef2b81f3c711ef444fc25e0'}
+  - {seq: 33, role: markers, filename: assets/KR3a0001_033.markers.yaml, hash: 'sha256:42fad04ae05072ffeb1e85be751c795a0897e34117c8619325aeff44d34ab2a2'}
+  - {seq: 35, role: markers, filename: assets/KR3a0001_035.markers.yaml, hash: 'sha256:bbf0b24761b29effcfcefaff1ce61b4125ac0518c91c8c71d92df3e640d20dd9'}
+  - {seq: 36, role: markers, filename: assets/KR3a0001_036.markers.yaml, hash: 'sha256:11134ef5f1c17c89978768e91b921a34b65a821ca67192e1ff6a9a0ac8904b7a'}
+  - {seq: 37, role: markers, filename: assets/KR3a0001_037.markers.yaml, hash: 'sha256:7d733bca9a89629cdc22ea5a6818c8f48e890167c2d5fd1b5b20c74843727009'}
+  - {seq: 38, role: markers, filename: assets/KR3a0001_038.markers.yaml, hash: 'sha256:f17051ec38b0a625a096d95d8586e15d067bfe5a9f38a79ef65a915c71c1b318'}
+  - {seq: 39, role: markers, filename: assets/KR3a0001_039.markers.yaml, hash: 'sha256:b95993c517c1a6c89e171cb727908fa5c2b685f62f2ff4e0cc3e26720d34548c'}
+  - {seq: 40, role: markers, filename: assets/KR3a0001_040.markers.yaml, hash: 'sha256:28c03ce0ceb795676231c2fc5e045665828ec8ce3bfb5d055992fea62ed193e0'}
+  - {seq: 41, role: markers, filename: assets/KR3a0001_041.markers.yaml, hash: 'sha256:ed493df3ea0a8fe0e2e0982619c10f6daace7ec12d088dda8019ce34f717a29d'}
+  - {seq: 42, role: markers, filename: assets/KR3a0001_042.markers.yaml, hash: 'sha256:6a0ee1efad515bc45de834f53f9e274f8550d74e61347ab4c823518ceb01d35d'}
+  - {seq: 43, role: markers, filename: assets/KR3a0001_043.markers.yaml, hash: 'sha256:ad5604a34add7a340bb5468f90df67bed2bb9442c2550b6906ee50a6840b020c'}
+  - {seq: 44, role: markers, filename: assets/KR3a0001_044.markers.yaml, hash: 'sha256:f57494047f40f5a7974ede993df3dcf72c64560237da4d5022e94e93a8f43a38'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3a0001_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 863
+  label: 相魯第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3a0001_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 657
+  label: 始誅第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3a0001_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 1271
+  label: 王言解第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3a0001_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 840
+  label: 大昏解第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3a0001_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 1102
+  label: 儒行解第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3a0001_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 750
+  label: 問禮第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3a0001_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 1612
+  label: 五儀解第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3a0001_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 2686
+  label: 觀思第八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3a0001_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 1180
+  label: 三恕第九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3a0001_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 1676
+  label: 好生第十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3a0001_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 881
+  label: 觀周第十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3a0001_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 1696
+  label: 弟子行第十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3a0001_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 1397
+  label: 賢君第十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3a0001_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 1332
+  label: 辯政第十四
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3a0001_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 2712
+  label: 六本第十五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3a0001_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 1412
+  label: 辯物第十六
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3a0001_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 1196
+  label: 哀公問政第十七
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3a0001_CHANT_018-1a.1-h
+    span:
+    - body
+    - 0
+    - 1121
+  label: 顏回第十八
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3a0001_CHANT_019-1a.1-h
+    span:
+    - body
+    - 0
+    - 1297
+  label: 子路初見第十九
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3a0001_CHANT_020-1a.1-h
+    span:
+    - body
+    - 0
+    - 967
+  label: 在厄第二十
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3a0001_CHANT_021-1a.1-h
+    span:
+    - body
+    - 0
+    - 1113
+  label: 入官第二十一
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3a0001_CHANT_022-1a.1-h
+    span:
+    - body
+    - 0
+    - 1476
+  label: 困誓第二十二
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3a0001_CHANT_023-1a.1-h
+    span:
+    - body
+    - 0
+    - 970
+  label: 五帝德第二十三
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3a0001_CHANT_024-1a.1-h
+    span:
+    - body
+    - 0
+    - 599
+  label: 五帝第二十四
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR3a0001_CHANT_025-1a.1-h
+    span:
+    - body
+    - 0
+    - 1660
+  label: 執轡第二十五
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR3a0001_CHANT_026-1a.1-h
+    span:
+    - body
+    - 0
+    - 873
+  label: 本命解第二十六
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR3a0001_CHANT_027-1a.1-h
+    span:
+    - body
+    - 0
+    - 1236
+  label: 論禮第二十七
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR3a0001_CHANT_028-1a.1-h
+    span:
+    - body
+    - 0
+    - 635
+  label: 觀鄉射第二十八
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR3a0001_CHANT_029-1a.1-h
+    span:
+    - body
+    - 0
+    - 499
+  label: 郊問第二十九
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR3a0001_CHANT_030-1a.1-h
+    span:
+    - body
+    - 0
+    - 990
+  label: 五刑解第三十
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR3a0001_CHANT_031-1a.1-h
+    span:
+    - body
+    - 0
+    - 655
+  label: 刑政第三十一
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR3a0001_CHANT_032-1a.1-h
+    span:
+    - body
+    - 0
+    - 2259
+  label: 禮運第三十二
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR3a0001_CHANT_033-1a.1-h
+    span:
+    - body
+    - 0
+    - 584
+  label: 冠頌第三十三
+  type: section
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR3a0001_CHANT_034-1a.1-h
+    span:
+    - body
+    - 0
+    - 449
+  label: 廟制第三十四
+  type: section
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR3a0001_CHANT_035-1a.1-h
+    span:
+    - body
+    - 0
+    - 1083
+  label: 辯樂解第三十五
+  type: section
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR3a0001_CHANT_036-1a.1-h
+    span:
+    - body
+    - 0
+    - 727
+  label: 問玉第三十六
+  type: section
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR3a0001_CHANT_037-1a.1-h
+    span:
+    - body
+    - 0
+    - 1854
+  label: 屈節解第三十七
+  type: section
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR3a0001_CHANT_038-1a.1-h
+    span:
+    - body
+    - 0
+    - 1987
+  label: 七十二弟子解第三十八
+  type: section
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR3a0001_CHANT_039-1a.1-h
+    span:
+    - body
+    - 0
+    - 828
+  label: 本姓解第三十九
+  type: section
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR3a0001_CHANT_040-1a.1-h
+    span:
+    - body
+    - 0
+    - 623
+  label: 終記解第四十
+  type: section
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR3a0001_CHANT_041-1a.1-h
+    span:
+    - body
+    - 0
+    - 3797
+  label: 正論解第四十一
+  type: section
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR3a0001_CHANT_042-1a.1-h
+    span:
+    - body
+    - 0
+    - 2415
+  label: 曲禮子貢問第四十二
+  type: section
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR3a0001_CHANT_043-1a.1-h
+    span:
+    - body
+    - 0
+    - 2423
+  label: 子貢問第四十三
+  type: section
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR3a0001_CHANT_044-1a.1-h
+    span:
+    - body
+    - 0
+    - 1227
+  label: 公西赤問第四十四
+  type: section
+  level: 1
+hash: sha256:b7e8e33990fd2a6a8434095e56b65d75d6b19e0dce4b072cb3d1e2ef4b07646a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

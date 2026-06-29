@@ -1,0 +1,737 @@
+canonical_identifier: bkk:krp/KR3a0001/bkk/v1/markers/2
+seq: 2
+markers:
+  front:
+  - {type: variant, offset: 0, length: 2, content: 始誅, SBCK: 孔子家語卷}
+  - {type: page-break, offset: 0, content: '', id: KR3a0001_SBCK_002-1a}
+  - {type: variant, offset: 0, length: 1, content: 始, WYG: 致}
+  - {type: variant, offset: 0, length: 2, content: 始誅, krp: 孔子家語卷}
+  body:
+  - {type: line-break, offset: 0, content: '', id: SBCK_001-4b.05_dup2}
+  - {type: line-break, offset: 0, content: '', id: WYG_001-4a.05}
+  - {type: variant, offset: 1, length: 1, content: 誅, WYG: 思}
+  - {type: variant, offset: 3, length: 1, content: 二, WYG: 八}
+  - {type: xml-element, offset: 4, content: '', id: KR3a0001_CHANT_002-bkkxmlele1}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR3a0001_CHANT_002-1a.1}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR3a0001_CHANT_002-1a.2}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR3a0001_CHANT_002-1a.3}
+  - {type: line-break, offset: 4, content: '', id: SBCK_001-4b.06}
+  - {type: line-break, offset: 4, content: '', id: WYG_001-4a.06}
+  - {type: variant, offset: 4, length: 0, content: '', SBCK: 致思第八}
+  - {type: variant, offset: 4, length: 0, content: '', krp: 致思第八}
+  - {type: variant, offset: 6, length: 14, content: 為魯司寇攝行相事有喜色仲由問, SBCK: 北遊於農山子路子貢顔淵侍側孔子四望喟然而嘆曰於斯致思無所不至矣所不至言思無二三子各言爾志吾将擇焉子路進}
+  - {type: variant, offset: 6, length: 14, content: 為魯司寇攝行相事有喜色仲由問, WYG: 北遊於于農山子路子貢顔淵侍側孔子四望喟然而歎曰於斯致思無所不至矣言思無所不至二三子各言爾志吾将擇焉子路進}
+  - {type: variant, offset: 6, length: 14, content: 為魯司寇攝行相事有喜色仲由問, krp: 北遊於農山子路子貢顔淵侍側孔子四望喟然而嘆曰於斯致思無所不至矣所不至言思無二三子各言爾志吾将擇焉子路進}
+  - {type: punctuation, offset: 10, content: ，, id: KR3a0001_CHANT_002-bkkpn1}
+  - {type: line-break, offset: 10, content: '', id: SBCK_001-4b.06_dup2}
+  - {type: line-break, offset: 10, content: '', id: WYG_001-4a.06_dup2}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR3a0001_CHANT_002-1a.4}
+  - {type: punctuation, offset: 14, content: ，, id: KR3a0001_CHANT_002-bkkpn2}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR3a0001_CHANT_002-1a.5}
+  - {type: punctuation, offset: 17, content: 。, id: KR3a0001_CHANT_002-bkkpn3}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR3a0001_CHANT_002-1a.6}
+  - {type: line-break, offset: 20, content: '', id: SBCK_001-4b.07}
+  - {type: punctuation, offset: 21, content: ：, id: KR3a0001_CHANT_002-bkkpn4}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR3a0001_CHANT_002-1a.7}
+  - {type: line-break, offset: 21, content: '', id: WYG_001-4a.07}
+  - {type: punctuation, offset: 21, content: 「, id: KR3a0001_CHANT_002-bkkpn5}
+  - {type: variant, offset: 22, length: 0, content: '', SBCK: 願得白羽若月赤羽若日鍾鼓之音上震於天旍旗繽紛下蟠于地委蟠由當一隊而敵之必也攘地千里却攘搴旗執聝聝截耳也以效獲也搴取也取敵之旍旗唯由能之使二子者從我焉夫子曰勇哉子貢復進曰賜願使齊楚合戰於漭瀁之野大之􅁼漭瀁廣兩壘相望塵埃相接挺刃交兵賜著縞衣白冠凶兵冠服也事故白陳説其間推論利害釋國之患唯賜能之使夫二子者從我焉夫子曰辯哉顔囘退而不對孔子曰回来汝奚獨無願乎顔回對曰文武之事則二子者既言之矣回何云焉孔子曰雖然各言爾志也小子言之對曰回}
+  - {type: page-break, offset: 22, content: '', id: KR3a0001_SBCK_002-1b}
+  - {type: variant, offset: 22, length: 0, content: '', WYG: 願得白羽若月赤羽若日鐘鼓之音上震於天旍旗繽紛下蟠于地蟠委由當一隊而敵之必也攘地千里攘却搴旗執馘搴取也取敵之旍旗馘截耳也以效獲也唯由能之使二子者從我焉夫子曰勇哉子貢復進曰賜願使齊楚合戰於漭瀁之野漭瀁廣大之類兩壘相望塵埃相接挺刃交兵賜著縞衣白冠兵凶事故白冠服也陳説其間推論利害釋二國之患唯賜能之使夫二子者從我焉夫子曰辯哉顔回退而不對孔子曰回来汝奚獨無願乎顔回對曰文武之事則二子者既言之矣回何云焉雖然各言爾志也小子言之對曰回}
+  - {type: page-break, offset: 22, content: '', id: KR3a0001_WYG_002-1b, image: WYG0695/WYG0695-0016d.png}
+  - {type: variant, offset: 22, length: 0, content: '', krp: 願得白羽若月赤羽若日鍾鼓之音上震於天旍旗繽紛下蟠于地委蟠由當一隊而敵之必也攘地千里却攘搴旗執聝聝截耳也以效獲也搴取也取敵之旍旗唯由能之使二子者從我焉夫子曰勇哉子貢復進曰賜願使齊楚合戰於漭瀁之野大之類漭瀁廣兩壘相望塵埃相接挺刃交兵賜著縞衣白冠凶兵冠服也事故白陳説其間推論利害釋國之患唯賜能之使夫二子者從我焉夫子曰辯哉顔囘退而不對孔子曰回来汝奚獨無願乎顔回對曰文武之事則二子者既言之矣回何云焉孔子曰雖然各言爾志也小子言之對曰回}
+  - {type: variant, offset: 23, length: 0, content: '', SBCK: 薰蕕不同器而藏蕕臭薰香堯桀不共國而治以其類異也回願得明王聖主輔相之敷其五敎義母慈兄友弟敷布也五教父孝也恭子導之以禮樂使民城郭不修溝池不越越溝池言無踰鑄劒㦸以為農器放牛馬於原藪無水曰藪也廣平曰原澤室家無離曠之思千歲無戰闘之患則由無所施其勇而賜無所用其辯矣夫子凛然曰美哉徳也子路抗手而對曰夫子何選焉孔子曰不傷財不害民不繁詞則顔氏之子有矣魯有儉嗇者瓦鬲煑食釜瓦食之自謂其美盛之土型之器甂瓦以進孔子孔子受之歡然而悦如受大牢之饋饋餽也牛羊豕子路曰瓦甂陋器也煑食薄膳也夫子何喜之如此乎子曰夫好諫者思其君食美者念其親吾非以饌具之為厚以其食厚而我思焉孔子之楚而有漁者而獻魚焉孔子不受漁者曰天暑市逺無所鬻也思慮棄之糞壤不如獻之}
+  - {type: page-break, offset: 23, content: '', id: KR3a0001_SBCK_002-2a}
+  - {type: page-break, offset: 23, content: '', id: KR3a0001_SBCK_002-2b}
+  - {type: variant, offset: 23, length: 0, content: '', WYG: 薰蕕不同器而藏薫香猶臭堯桀不共國而治以其類異也回願得明王聖主輔相之敷其五敎敷布也五教父義母慈兄友弟恭子孝也導之以禮樂使民城郭不修溝池不越言無踰越溝池鑄劒㦸以為農器放牛馬於原藪廣平曰原澤無水曰藪也室家無離曠之思千歲無戰鬬之患則由無所施其勇而賜無所用其辯矣夫子凛然曰美哉徳也子路抗手而對曰夫子何選焉孔子曰不傷財不害民不繁詞則顔氏之子有矣魯有儉嗇者瓦鬲煮食瓦釡食之自謂其美盛之土型之器瓦甂以進孔子孔子受之歡然而悦如受大牢之饋牛羊豕饋遺也子路曰瓦甂陋器也煮食薄膳也夫子何喜之如此乎子曰夫好諫者思其君食美者念其親吾非以饌具之為厚以其食厚而我思焉孔子之楚而有䰻者而獻魚焉孔子不受䰻者曰天暑市逺無所鬻也思慮棄之糞壤不如獻之}
+  - {type: page-break, offset: 23, content: '', id: KR3a0001_WYG_002-2a, image: WYG0695/WYG0695-0017a.png}
+  - {type: page-break, offset: 23, content: '', id: KR3a0001_WYG_002-2b, image: WYG0695/WYG0695-0017b.png}
+  - {type: variant, offset: 23, length: 0, content: '', krp: 薰蕕不同器而藏蕕臭薰香堯桀不共國而治以其類異也回願得明王聖主輔相之敷其五敎義母慈兄友弟敷布也五教父孝也恭子導之以禮樂使民城郭不修溝池不越越溝池言無踰鑄劒㦸以為農器放牛馬於原藪無水曰藪也廣平曰原澤室家無離曠之思千歲無戰闘之患則由無所施其勇而賜無所用其辯矣夫子凛然曰美哉徳也子路抗手而對曰夫子何選焉孔子曰不傷財不害民不繁詞則顔氏之子有矣魯有儉嗇者瓦鬲煑食釜瓦食之自謂其美盛之土型之器甂瓦以進孔子孔子受之歡然而悦如受大牢之饋饋餽也牛羊豕子路曰瓦甂陋器也煑食薄膳也夫子何喜之如此乎子曰夫好諫者思其君食美者念其親吾非以饌具之為厚以其食厚而我思焉孔子之楚而有漁者而獻魚焉孔子不受漁者曰天暑市逺無所鬻也思慮棄之糞壤不如獻之}
+  - {type: variant, offset: 25, length: 9, content: 禍至不懼福至不喜今, SBCK: 故敢以進焉於是}
+  - {type: variant, offset: 25, length: 9, content: 禍至不懼福至不喜今, WYG: 故敢以進焉於是}
+  - {type: variant, offset: 25, length: 9, content: 禍至不懼福至不喜今, krp: 故敢以進焉於是}
+  - {type: punctuation, offset: 29, content: ，, id: KR3a0001_CHANT_002-bkkpn6}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3a0001_CHANT_002-1a.8}
+  - {type: punctuation, offset: 33, content: 。, id: KR3a0001_CHANT_002-bkkpn7}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR3a0001_CHANT_002-1a.9}
+  - {type: line-break, offset: 36, content: '', id: SBCK_001-4b.08}
+  - {type: variant, offset: 36, length: 2, content: 得位, SBCK: 再拜受之使弟子掃地将以享祭門人曰彼将棄之}
+  - {type: page-break, offset: 36, content: '', id: KR3a0001_SBCK_002-3a}
+  - {type: variant, offset: 36, length: 2, content: 得位, WYG: 再拜受之使弟子掃地将以享祭門人曰彼将棄之}
+  - {type: variant, offset: 36, length: 2, content: 得位, krp: 再拜受之使弟子掃地将以享祭門人曰彼将棄之}
+  - {type: variant, offset: 39, length: 1, content: 喜, SBCK: 夫子以祭之}
+  - {type: variant, offset: 39, length: 1, content: 喜, WYG: 夫子以祭之}
+  - {type: variant, offset: 39, length: 1, content: 喜, krp: 夫子以祭之}
+  - {type: punctuation, offset: 40, content: ，, id: KR3a0001_CHANT_002-bkkpn8}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3a0001_CHANT_002-1a.10}
+  - {type: punctuation, offset: 42, content: ？, id: KR3a0001_CHANT_002-bkkpn9}
+  - {type: punctuation, offset: 42, content: 」, id: KR3a0001_CHANT_002-bkkpn10}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR3a0001_CHANT_002-1a.11}
+  - {type: punctuation, offset: 45, content: ：, id: KR3a0001_CHANT_002-bkkpn11}
+  - {type: 'tls:seg', offset: 45, content: '', id: KR3a0001_CHANT_002-1a.12}
+  - {type: line-break, offset: 45, content: '', id: WYG_001-4a.08}
+  - {type: punctuation, offset: 45, content: 「, id: KR3a0001_CHANT_002-bkkpn12}
+  - {type: variant, offset: 45, length: 0, content: '', SBCK: 吾聞諸惜其腐䭃而欲以務施者仁人之偶也惡有受仁人之饋而無祭者乎季羔為衛之士師官獄刖人之足俄而衛有蒯聵之亂晉靈公卒立其子輙蒯聵自晉初衞靈公太子蒯聵得罪出奔路並位於衞也襲衞時子羔子季羔逃之走郭門刖者守門焉謂季羔曰彼有􅆙季羔曰君子不踰又曰彼有竇季羔曰君子不隧竇出隧從又曰於此有室季羔乃入焉既而追者罷季羔将去謂刖者吾不能􅃜主之法而親刖子之足矣今吾在難此正子之報怨之時而逃我者三何故哉刖者曰斷足固我之罪無可奈何曩者君治臣以法令先人後臣欲臣之免也臣知獄决罪定臨當論刑君愀}
+  - {type: page-break, offset: 45, content: '', id: KR3a0001_SBCK_002-3b}
+  - {type: variant, offset: 45, length: 0, content: '', WYG: 吾聞諸惜其腐䭃而欲以務施者仁人之偶也惡有受仁人之饋而無祭者乎季羔為衛之士師獄官刖人之足俄而衛有蒯聵之亂初衛靈公太子蒯聵得罪出奔晉靈公卒立其子輒蒯聵自晉襲衛時子羔子路並仕於衛也季羔逃之走郭門刖者守門焉謂季羔曰彼有缺季羔曰君子不踰又曰彼有竇季羔曰君子不隧隧從竇出又曰於此有室季羔乃入焉既而追者罷季羔将去謂刖者吾不能虧主之法而親刖子之足今吾在難此正子之報怨之時而逃我者三何故哉刖者曰斷足固我之罪無可奈何曩者君治臣以法令先人後臣欲臣之免也臣知獄決罪定臨當論刑君愀}
+  - {type: page-break, offset: 45, content: '', id: KR3a0001_WYG_002-3a, image: WYG0695/WYG0695-0017c.png}
+  - {type: page-break, offset: 45, content: '', id: KR3a0001_WYG_002-3b, image: WYG0695/WYG0695-0017d.png}
+  - {type: variant, offset: 45, length: 0, content: '', krp: 吾聞諸惜其腐䭃而欲以務施者仁人之偶也惡有受仁人之饋而無祭者乎季羔為衛之士師官獄刖人之足俄而衛有蒯聵之亂晉靈公卒立其子輙蒯聵自晉初衞靈公太子蒯聵得罪出奔路並位於衞也襲衞時子羔子季羔逃之走郭門刖者守門焉謂季羔曰彼有缺季羔曰君子不踰又曰彼有竇季羔曰君子不隧竇出隧從又曰於此有室季羔乃入焉既而追者罷季羔将去謂刖者吾不能虧主之法而親刖子之足矣今吾在難此正子之報怨之時而逃我者三何故哉刖者曰斷足固我之罪無可奈何曩者君治臣以法令先人後臣欲臣之免也臣知獄决罪定臨當論刑君愀}
+  - {type: punctuation, offset: 46, content: ！, id: KR3a0001_CHANT_002-bkkpn13}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR3a0001_CHANT_002-1a.13}
+  - {type: line-break, offset: 46, content: '', id: WYG_001-4a.08_dup2}
+  - {type: variant, offset: 46, length: 3, content: 有是言, SBCK: 不樂見君顔色臣又知之君豈私臣哉天生君子其道固然此臣之所以悦君}
+  - {type: variant, offset: 46, length: 3, content: 有是言, WYG: 不樂見君顔色臣又知之君豈私臣哉天生君子其道固然此臣之所以悦君}
+  - {type: variant, offset: 46, length: 3, content: 有是言, krp: 不樂見君顔色臣又知之君豈私臣哉天生君子其道固然此臣之所以悦君}
+  - {type: punctuation, offset: 50, content: 。, id: KR3a0001_CHANT_002-bkkpn14}
+  - {type: line-break, offset: 50, content: '', id: WYG_001-4a.08_dup3}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR3a0001_CHANT_002-1a.14}
+  - {type: variant, offset: 50, length: 1, content: 不, SBCK: 孔子聞之}
+  - {type: variant, offset: 50, length: 1, content: 不, WYG: 孔子聞之}
+  - {type: variant, offset: 50, length: 1, content: 不, krp: 孔子聞之}
+  - {type: line-break, offset: 52, content: '', id: SBCK_001-4b.09}
+  - {type: variant, offset: 52, length: 1, content: 樂, SBCK: 善哉為吏其用法一也思仁恕則樹德加嚴􅁀則樹怨公}
+  - {type: page-break, offset: 52, content: '', id: KR3a0001_SBCK_002-4a}
+  - {type: variant, offset: 52, length: 1, content: 樂, WYG: 善哉為吏其用法一也思仁恕則樹德加嚴㬥則樹怨公}
+  - {type: variant, offset: 52, length: 1, content: 樂, krp: 善哉為吏其用法一也思仁恕則樹德加嚴暴則樹怨公}
+  - {type: variant, offset: 54, length: 20, content: 貴下人乎於是朝政七日而誅亂政大夫少正卯戮, SBCK: 行}
+  - {type: variant, offset: 54, length: 20, content: 貴下人乎於是朝政七日而誅亂政大夫少正卯戮, WYG: 行}
+  - {type: variant, offset: 54, length: 20, content: 貴下人乎於是朝政七日而誅亂政大夫少正卯戮, krp: 行}
+  - {type: punctuation, offset: 58, content: ？, id: KR3a0001_CHANT_002-bkkpn15}
+  - {type: punctuation, offset: 58, content: 」, id: KR3a0001_CHANT_002-bkkpn16}
+  - {type: 'tls:seg', offset: 58, content: '', id: KR3a0001_CHANT_002-1a.15}
+  - {type: page-break, offset: 67, content: '', id: KR3a0001_WYG_001-4b}
+  - {type: page-break, offset: 68, content: '', id: KR3a0001_SBCK_001-5a}
+  - {type: punctuation, offset: 73, content: ，, id: KR3a0001_CHANT_002-bkkpn17}
+  - {type: 'tls:seg', offset: 73, content: '', id: KR3a0001_CHANT_002-1a.16}
+  - {type: variant, offset: 75, length: 10, content: 於兩觀之下尸於朝三日, SBCK: 其}
+  - {type: variant, offset: 75, length: 10, content: 於兩觀之下尸於朝三日, WYG: 其}
+  - {type: variant, offset: 75, length: 10, content: 於兩觀之下尸於朝三日, krp: 其}
+  - {type: punctuation, offset: 80, content: ，, id: KR3a0001_CHANT_002-bkkpn18}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR3a0001_CHANT_002-1a.17}
+  - {type: line-break, offset: 82, content: '', id: SBCK_001-5a.02}
+  - {type: punctuation, offset: 85, content: 。, id: KR3a0001_CHANT_002-bkkpn19}
+  - {type: 'tls:seg', offset: 85, content: '', id: KR3a0001_CHANT_002-1a.18}
+  - {type: line-break, offset: 86, content: '', id: WYG_001-4b.02}
+  - {type: variant, offset: 86, length: 25, content: 貢進曰夫少正卯魯之聞人也今夫子為政而始誅之或者為失, SBCK: 羔}
+  - {type: variant, offset: 86, length: 25, content: 貢進曰夫少正卯魯之聞人也今夫子為政而始誅之或者為失, WYG: 羔}
+  - {type: variant, offset: 86, length: 25, content: 貢進曰夫少正卯魯之聞人也今夫子為政而始誅之或者為失, krp: 羔}
+  - {type: punctuation, offset: 89, content: ：, id: KR3a0001_CHANT_002-bkkpn20}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR3a0001_CHANT_002-1a.19}
+  - {type: line-break, offset: 89, content: '', id: SBCK_001-5a.03}
+  - {type: punctuation, offset: 89, content: 「, id: KR3a0001_CHANT_002-bkkpn21}
+  - {type: punctuation, offset: 93, content: 、, id: KR3a0001_CHANT_002-bkkpn22}
+  - {type: punctuation, offset: 98, content: 。, id: KR3a0001_CHANT_002-bkkpn23}
+  - {type: 'tls:seg', offset: 98, content: '', id: KR3a0001_CHANT_002-1a.20}
+  - {type: line-break, offset: 98, content: '', id: SBCK_001-5a.03_dup2}
+  - {type: punctuation, offset: 107, content: ，, id: KR3a0001_CHANT_002-bkkpn24}
+  - {type: line-break, offset: 107, content: '', id: SBCK_001-5a.03_dup3}
+  - {type: 'tls:seg', offset: 107, content: '', id: KR3a0001_CHANT_002-1a.21}
+  - {type: line-break, offset: 108, content: '', id: WYG_001-4b.03}
+  - {type: punctuation, offset: 112, content: ？, id: KR3a0001_CHANT_002-bkkpn25}
+  - {type: punctuation, offset: 112, content: 」, id: KR3a0001_CHANT_002-bkkpn26}
+  - {type: 'tls:seg', offset: 112, content: '', id: KR3a0001_CHANT_002-1a.22}
+  - {type: line-break, offset: 114, content: '', id: SBCK_001-5a.04}
+  - {type: punctuation, offset: 115, content: ：, id: KR3a0001_CHANT_002-bkkpn27}
+  - {type: 'tls:seg', offset: 115, content: '', id: KR3a0001_CHANT_002-1a.23}
+  - {type: punctuation, offset: 115, content: 「, id: KR3a0001_CHANT_002-bkkpn28}
+  - {type: variant, offset: 115, length: 4, content: 居吾語女, SBCK: 季孫之賜我粟千鍾也而交益親施與衆而交益親得季孫千鍾之粟}
+  - {type: variant, offset: 115, length: 4, content: 居吾語女, WYG: 季孫之賜我粟千鍾也而交益親得季孫千鍾之粟}
+  - {type: variant, offset: 115, length: 4, content: 居吾語女, krp: 季孫之賜我粟千鍾也而交益親施與衆而交益親得季孫千鍾之粟}
+  - {type: punctuation, offset: 116, content: ！, id: KR3a0001_CHANT_002-bkkpn29}
+  - {type: 'tls:seg', offset: 116, content: '', id: KR3a0001_CHANT_002-1a.24}
+  - {type: variant, offset: 120, length: 0, content: '', SBCK: 自南宫敬叔之乗我車也而道加行敬叔言於魯君給孔子車孔子欲見老􅅨而西觀周自周而還弟子四方來習也馬問禮於老子孔子歷觀郊廟故道雖貴必有時而後重有勢而後行微夫二子之貺財則丘之道殆将廢矣孔子曰王者有似乎春秋萬物皆正正}
+  - {type: variant, offset: 120, length: 0, content: '', WYG: 施與衆而交益親自南宫敬叔之乗我車也而道加行孔子欲見老聃而西觀周敬叔言於魯君給孔子車馬問禮於老子孔子厯觀郊廟自周而還弟子四方来習也故道雖貴必有時而後重有勢而後行微夫二子之貺財則丘之道殆将廢矣孔子曰王者有似于春秋正}
+  - {type: page-break, offset: 120, content: '', id: KR3a0001_WYG_002-4a, image: WYG0695/WYG0695-0018a.png}
+  - {type: variant, offset: 120, length: 0, content: '', krp: 自南宫敬叔之乗我車也而道加行敬叔言於魯君給孔子車孔子欲見老𣆀而西觀周自周而還弟子四方來習也馬問禮於老子孔子歷觀郊廟故道雖貴必有時而後重有勢而後行微夫二子之貺財則丘之道殆将廢矣孔子曰王者有似乎春秋萬物皆正正}
+  - {type: variant, offset: 121, length: 1, content: 故, SBCK: 本而文王以王季為父以太任為母以太姒為妃以武王周公為子以太顛閎夭為臣其本美矣武王正其身以正其國正其國以正}
+  - {type: page-break, offset: 121, content: '', id: KR3a0001_SBCK_002-4b}
+  - {type: variant, offset: 121, length: 1, content: 故, WYG: 本而萬物皆正文王以王季為父以太任為母以太姒為妃以武王周公為子以太顛閎夭為臣其本美矣武王正其身以正其國正其國以正}
+  - {type: variant, offset: 121, length: 1, content: 故, krp: 本而文王以王季為父以太任為母以太姒為妃以武王周公為子以太顛閎夭為臣其本美矣武王正其身以正其國正其國以正}
+  - {type: punctuation, offset: 122, content: 。, id: KR3a0001_CHANT_002-bkkpn30}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR3a0001_CHANT_002-1a.25}
+  - {type: variant, offset: 124, length: 0, content: '', SBCK: 伐無道刑有罪一動而天下正其事成矣春秋致其時而萬物皆及王者致其道而萬民皆治周公載已行化行已以行化載亦行矣言令而行也其身正不而天下順之其誠至矣曽子曰入是國也言信於羣臣而留可也行忠於卿大夫則仕可也澤施於百姓則富可也孔子曰參之言此可謂善安身矣子路為蒲宰為水備與其民修溝瀆以民之勞煩苦也人與之一簞食笥簞一壺漿孔子聞之使子貢止之子路忿不悦徃見孔子曰由也以暴雨将至恐有水災故與民修溝洫以備之而民多匱餓者是以簞食壺漿而與之夫子使賜止之是夫子止由之行仁也夫子以仁教而禁其行由不受也孔子曰汝以民為餓也何不白於君發倉廩以賑之而私以爾食饋之是汝明君之無惠而見巳之德美矣汝速已則可不則汝之見罪必矣子路問於孔子曰管仲之爲人何如子曰仁也道也得仁子路曰昔管仲説襄公公不受是不辯也欲立公子紏而不能是不智也矣奉公子小白出奔莒公孫無知殺襄公齊襄立無常鮑叔牙曰君使民慢亂將作魯伐齊納子紏小白自莒先入是爲桓公管夷吾召忽奉公子紏奔魯齊人殺無知召忽死之也公乃殺子紏家殘於齊而無憂色是不慈也桎梏而居檻車無慙心是無醜也耻惡言無心之事所射之君是不貞也召忽死之管仲不死是不忠也仁人之道固若是乎孔子曰管仲説襄公襄公不受公之闇也欲立子紏而不能不遇時也家殘於齊而無憂色是知權命也桎梏而無慙心自裁審也事所射之君通於變也不死子紏量輕重也夫子紏未成君管仲未成臣管仲才度義管仲不死束縛而立功名未可非也召忽雖死過與取仁未足多也孔子適齊中路聞哭者之聲其音甚哀孔子謂其僕曰此哭哀則哀矣然非䘮者之哀矣驅而前少進見有異人焉擁鐮帶索哭者不哀孔子下車追而問曰子何人也對曰吾丘吾子也曰子今非䘮之所奚哭之悲也丘吾子曰吾有三失晚而自覺悔之何及曰三失可得聞乎願子告吾無隠也丘吾子曰吾少時好學周遍天下後還䘮吾親是一失也長事齊君君驕奢失士臣節不遂是二失也吾平生厚交而今皆離絶是三失也夫樹欲静而風不停子欲養而親不待徃而不來者年也不可再見者親也請從此辭遂投水而死孔子曰小子識之斯足為戒矣自是弟子辭歸養親者十有三孔子謂伯魚曰鯉乎吾聞可以與人終日不倦者其唯學焉其容體不足觀也其勇力不足憚也其先祖不足稱也其族姓不足道也終而}
+  - {type: page-break, offset: 124, content: '', id: KR3a0001_SBCK_002-5a}
+  - {type: page-break, offset: 124, content: '', id: KR3a0001_SBCK_002-5b}
+  - {type: page-break, offset: 124, content: '', id: KR3a0001_SBCK_002-6a}
+  - {type: page-break, offset: 124, content: '', id: KR3a0001_SBCK_002-6b}
+  - {type: page-break, offset: 124, content: '', id: KR3a0001_SBCK_002-7a}
+  - {type: page-break, offset: 124, content: '', id: KR3a0001_SBCK_002-7b}
+  - {type: variant, offset: 124, length: 0, content: '', WYG: 伐無道刑有罪一動而天下正其事成矣春秋致其時而萬物皆及王者致其道而萬民皆治周公載已行化載亦行也言行巳以行化其身正不令而行也而天下順之其誠至矣曽子曰入是國也言信於羣臣而留可也行忠於卿大夫則仕可也澤施於百姓則富可也孔子曰參之言此可謂善安身矣子路為蒲宰為水備與其民修溝瀆以民之勞煩苦也人與之簞食簞笥一壺漿孔子聞之使子貢止之子路忿然不悦往見孔子曰由也以㬥雨将至恐有水災故與民修溝洫以備之而民多匱餓者是以簞食壺漿而與之夫子使賜止之是夫子止由之行仁也夫子以仁教而禁其行由不受也孔子曰汝以民為餓也何不白於君發倉廩以賑之而私以􅈛食饋之是汝明君之無惠而見巳之德美矣汝速己則可不已則汝之見罪必矣子路問於孔子曰管仲之為人如何子曰仁也得仁道也子路曰昔管仲説襄公公不受是不辯也欲立公子糾而不能是不智也齊襄公立無知鮑叔牙曰君使民慢亂将作矣奉公子小白出奔莒公孫無知殺襄公管夷吾召忽奉公子糾奔魯齊人殺無知魯伐齊納子糾小白自莒先入是為桓公乃殺子糾召忽死之也家殘於齊而無憂色是不慈也桎梏而居檻車無慙心是無醜也言無恥惡之心事所射之君是不貞也召忽死之管仲不死是不忠也仁人之道固若是乎孔子曰管仲説襄公襄公不受公之闇也欲立子糾而不能不遇時也家殘於齊而無憂色是和權命也桎梏而無慙心自裁審也事所射之君通於變也不死子糾量輕重也夫子糾未成君管仲未成臣管仲才度義管仲不死束縛而立功名未可非也召忽雖死過與取仁未足多也孔子適齊中路聞哭者之聲其音甚哀孔子謂其僕曰此哭哀則哀矣然非䘮者之哀矣驅而前少進見有異人焉擁鐮帶索哭者不衰孔子下車追而問曰子何人也對曰吾丘吾子也曰子今非䘮之所奚哭之悲也丘吾子曰吾有三失晚而自覺悔之何及曰三失可得聞乎願子告吾無隠也丘吾子曰吾少時好學周徧天下後還䘮吾親是一失也長事齊君君驕奢失士臣節不遂是二失也吾平生厚交而今皆離絶是三失也夫樹欲静而風不停子欲養而親不待往而不来者年也不可再見者親也請從此辭遂投水而死孔子曰小子識之斯足為戒矣自是弟子辭歸養親者十有三孔子謂伯魚曰鯉乎吾聞可以與人終日不倦者其唯學乎其容體不足觀也其勇力不足憚也其先祖不足稱也其族姓不足道也終而}
+  - {type: page-break, offset: 124, content: '', id: KR3a0001_WYG_002-4b, image: WYG0695/WYG0695-0018b.png}
+  - {type: page-break, offset: 124, content: '', id: KR3a0001_WYG_002-5a, image: WYG0695/WYG0695-0018c.png}
+  - {type: page-break, offset: 124, content: '', id: KR3a0001_WYG_002-5b, image: WYG0695/WYG0695-0018d.png}
+  - {type: page-break, offset: 124, content: '', id: KR3a0001_WYG_002-6a, image: WYG0695/WYG0695-0019a.png}
+  - {type: page-break, offset: 124, content: '', id: KR3a0001_WYG_002-6b, image: WYG0695/WYG0695-0019b.png}
+  - {type: variant, offset: 124, length: 0, content: '', krp: 伐無道刑有罪一動而天下正其事成矣春秋致其時而萬物皆及王者致其道而萬民皆治周公載已行化行已以行化載亦行矣言令而行也其身正不而天下順之其誠至矣曽子曰入是國也言信於羣臣而留可也行忠於卿大夫則仕可也澤施於百姓則富可也孔子曰參之言此可謂善安身矣子路為蒲宰為水備與其民修溝瀆以民之勞煩苦也人與之一簞食笥簞一壺漿孔子聞之使子貢止之子路忿不悦徃見孔子曰由也以暴雨将至恐有水災故與民修溝洫以備之而民多匱餓者是以簞食壺漿而與之夫子使賜止之是夫子止由之行仁也夫子以仁教而禁其行由不受也孔子曰汝以民為餓也何不白於君發倉廩以賑之而私以爾食饋之是汝明君之無惠而見巳之德美矣汝速已則可不則汝之見罪必矣子路問於孔子曰管仲之爲人何如子曰仁也道也得仁子路曰昔管仲説襄公公不受是不辯也欲立公子紏而不能是不智也矣奉公子小白出奔莒公孫無知殺襄公齊襄立無常鮑叔牙曰君使民慢亂將作魯伐齊納子紏小白自莒先入是爲桓公管夷吾召忽奉公子紏奔魯齊人殺無知召忽死之也公乃殺子紏家殘於齊而無憂色是不慈也桎梏而居檻車無慙心是無醜也耻惡言無心之事所射之君是不貞也召忽死之管仲不死是不忠也仁人之道固若是乎孔子曰管仲説襄公襄公不受公之闇也欲立子紏而不能不遇時也家殘於齊而無憂色是知權命也桎梏而無慙心自裁審也事所射之君通於變也不死子紏量輕重也夫子紏未成君管仲未成臣管仲才度義管仲不死束縛而立功名未可非也召忽雖死過與取仁未足多也孔子適齊中路聞哭者之聲其音甚哀孔子謂其僕曰此哭哀則哀矣然非䘮者之哀矣驅而前少進見有異人焉擁鐮帶索哭者不哀孔子下車追而問曰子何人也對曰吾丘吾子也曰子今非䘮之所奚哭之悲也丘吾子曰吾有三失晚而自覺悔之何及曰三失可得聞乎願子告吾無隠也丘吾子曰吾少時好學周遍天下後還䘮吾親是一失也長事齊君君驕奢失士臣節不遂是二失也吾平生厚交而今皆離絶是三失也夫樹欲静而風不停子欲養而親不待徃而不來者年也不可再見者親也請從此辭遂投水而死孔子曰小子識之斯足為戒矣自是弟子辭歸養親者十有三孔子謂伯魚曰鯉乎吾聞可以與人終日不倦者其唯學焉其容體不足觀也其勇力不足憚也其先祖不足稱也其族姓不足道也終而}
+  - {type: variant, offset: 126, length: 1, content: 惡, SBCK: 名以顯聞四方流聲後裔}
+  - {type: variant, offset: 126, length: 1, content: 惡, WYG: 名以顯聞四方流聲後裔}
+  - {type: variant, offset: 126, length: 1, content: 惡, krp: 名以顯聞四方流聲後裔}
+  - {type: variant, offset: 128, length: 34, content: 五而竊盜不與焉一曰心逆而險二曰行辟而堅三曰言偽而辯四曰記醜而博五曰順, SBCK: 豈}
+  - {type: variant, offset: 128, length: 34, content: 五而竊盜不與焉一曰心逆而險二曰行辟而堅三曰言偽而辯四曰記醜而博五曰順, WYG: 豈}
+  - {type: variant, offset: 128, length: 34, content: 五而竊盜不與焉一曰心逆而險二曰行辟而堅三曰言偽而辯四曰記醜而博五曰順, krp: 豈}
+  - {type: punctuation, offset: 129, content: ，, id: KR3a0001_CHANT_002-bkkpn31}
+  - {type: 'tls:seg', offset: 129, content: '', id: KR3a0001_CHANT_002-1a.26}
+  - {type: line-break, offset: 129, content: '', id: WYG_001-4b.04}
+  - {type: line-break, offset: 130, content: '', id: SBCK_001-5a.05}
+  - {type: line-break, offset: 130, content: '', id: WYG_001-4b.04_dup2}
+  - {type: punctuation, offset: 135, content: 。, id: KR3a0001_CHANT_002-bkkpn32}
+  - {type: line-break, offset: 135, content: '', id: WYG_001-4b.04_dup3}
+  - {type: 'tls:seg', offset: 135, content: '', id: KR3a0001_CHANT_002-1a.27}
+  - {type: punctuation, offset: 141, content: ，, id: KR3a0001_CHANT_002-bkkpn33}
+  - {type: 'tls:seg', offset: 141, content: '', id: KR3a0001_CHANT_002-1a.28}
+  - {type: line-break, offset: 146, content: '', id: SBCK_001-5a.06}
+  - {type: punctuation, offset: 147, content: ，, id: KR3a0001_CHANT_002-bkkpn34}
+  - {type: 'tls:seg', offset: 147, content: '', id: KR3a0001_CHANT_002-1a.29}
+  - {type: line-break, offset: 150, content: '', id: WYG_001-4b.05}
+  - {type: substitution, offset: 150, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
+  - {type: substitution, offset: 152, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
+  - {type: punctuation, offset: 153, content: ，, id: KR3a0001_CHANT_002-bkkpn35}
+  - {type: 'tls:seg', offset: 153, content: '', id: KR3a0001_CHANT_002-1a.30}
+  - {type: punctuation, offset: 159, content: ，, id: KR3a0001_CHANT_002-bkkpn36}
+  - {type: 'tls:seg', offset: 159, content: '', id: KR3a0001_CHANT_002-1a.31}
+  - {type: line-break, offset: 160, content: '', id: SBCK_001-5a.07}
+  - {type: variant, offset: 163, length: 12, content: 而澤此五者有一於人則不免, SBCK: 學之効也故}
+  - {type: variant, offset: 163, length: 12, content: 而澤此五者有一於人則不免, WYG: 學之效也故}
+  - {type: variant, offset: 163, length: 12, content: 而澤此五者有一於人則不免, krp: 學之効也故}
+  - {type: punctuation, offset: 165, content: 。, id: KR3a0001_CHANT_002-bkkpn37}
+  - {type: 'tls:seg', offset: 165, content: '', id: KR3a0001_CHANT_002-1a.32}
+  - {type: punctuation, offset: 168, content: ，, id: KR3a0001_CHANT_002-bkkpn38}
+  - {type: 'tls:seg', offset: 168, content: '', id: KR3a0001_CHANT_002-1a.33}
+  - {type: line-break, offset: 169, content: '', id: WYG_001-4b.06}
+  - {type: punctuation, offset: 172, content: ，, id: KR3a0001_CHANT_002-bkkpn39}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR3a0001_CHANT_002-1a.34}
+  - {type: line-break, offset: 176, content: '', id: SBCK_001-5a.08}
+  - {type: variant, offset: 177, length: 45, content: 之誅而少正卯皆兼有之其居處足以掫徒成黨其談說足以飾襃瑩眾其強禦足以返是獨立此乃人之姦雄者也, SBCK: ''}
+  - {type: variant, offset: 177, length: 45, content: 之誅而少正卯皆兼有之其居處足以掫徒成黨其談說足以飾襃瑩眾其強禦足以返是獨立此乃人之姦雄者也, WYG: ''}
+  - {type: variant, offset: 177, length: 45, content: 之誅而少正卯皆兼有之其居處足以掫徒成黨其談說足以飾襃瑩眾其強禦足以返是獨立此乃人之姦雄者也, krp: ''}
+  - {type: punctuation, offset: 179, content: ，, id: KR3a0001_CHANT_002-bkkpn40}
+  - {type: 'tls:seg', offset: 179, content: '', id: KR3a0001_CHANT_002-1a.35}
+  - {type: punctuation, offset: 187, content: 。, id: KR3a0001_CHANT_002-bkkpn41}
+  - {type: 'tls:seg', offset: 187, content: '', id: KR3a0001_CHANT_002-1a.36}
+  - {type: line-break, offset: 190, content: '', id: WYG_001-4b.07}
+  - {type: line-break, offset: 192, content: '', id: SBCK_001-5a.09}
+  - {type: punctuation, offset: 196, content: ，, id: KR3a0001_CHANT_002-bkkpn42}
+  - {type: 'tls:seg', offset: 196, content: '', id: KR3a0001_CHANT_002-1a.37}
+  - {type: substitution, offset: 202, original: 襃, replacement: 褒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1497}}
+  - {type: substitution, offset: 204, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 205, content: ，, id: KR3a0001_CHANT_002-bkkpn43}
+  - {type: 'tls:seg', offset: 205, content: '', id: KR3a0001_CHANT_002-1a.38}
+  - {type: page-break, offset: 207, content: '', id: KR3a0001_SBCK_001-5b}
+  - {type: line-break, offset: 210, content: '', id: WYG_001-4b.08}
+  - {type: punctuation, offset: 214, content: ；, id: KR3a0001_CHANT_002-bkkpn44}
+  - {type: 'tls:seg', offset: 214, content: '', id: KR3a0001_CHANT_002-1a.39}
+  - {type: punctuation, offset: 222, content: ，, id: KR3a0001_CHANT_002-bkkpn45}
+  - {type: 'tls:seg', offset: 222, content: '', id: KR3a0001_CHANT_002-1a.40}
+  - {type: line-break, offset: 223, content: '', id: SBCK_001-5b.02}
+  - {type: variant, offset: 226, length: 1, content: 除, SBCK: 學其容不可以不飭不飭無類無類失親宜􅀋禮貌矜莊然後親愛可久故曰無􅀋失親爲貌不在飭故無貌不得言不飭無􅀋也也失親不忠則無忠誠情不相親不忠失禮信爲本禮以忠失禮不立無以立非禮則}
+  - {type: variant, offset: 226, length: 1, content: 除, WYG: 學其容不可以不飭不飭無類無類失親類宜為貌不在飭故無貌不得言不飭無類也禮貌矜荘然後親愛可久故曰無類失親也失親不忠情不知親則無忠誠不忠失禮禮以忠信為本失禮不立非禮則無以立}
+  - {type: variant, offset: 226, length: 1, content: 除, krp: 學其容不可以不飭不飭無類無類失親宜類禮貌矜莊然後親愛可久故曰無類失親爲貌不在飭故無貌不得言不飭無類也也失親不忠則無忠誠情不相親不忠失禮信爲本禮以忠失禮不立無以立非禮則}
+  - {type: punctuation, offset: 227, content: 。, id: KR3a0001_CHANT_002-bkkpn46}
+  - {type: 'tls:seg', offset: 227, content: '', id: KR3a0001_CHANT_002-1a.41}
+  - {type: variant, offset: 228, length: 6, content: 殷湯誅尹諧文, SBCK: 逺而有光者飭也近而愈明者學也譬之汙池水潦注焉雚葦生焉雖或以觀之孰知其源乎水潦注於源泉源也學者雖從外入及其用之人誰知其非從池而生雚葦觀者誰知其非源泉乎以言者乎此出也子路見於孔子曰負重渉逺不擇地而休家貧親老不擇禄而仕昔者由也事二親之時常食藜藿之實為親負米百里之外親殁之後南遊於楚從車百乗積粟萬鍾累茵而坐列鼎而食願欲食藜藿為親負米不可復得也枯魚衘索幾何不蠧二親之夀忽若過隟孔子曰由也事親可謂生事盡力死事盡思者也孔子之郯也郯子達禮孔子故徃諮問焉郯國名也少昊之後吾之本縣遭程子於塗傾蓋而語駐車傾蓋終日甚相親顧謂子路曰取束帛以贈先生送贈子路屑然對曰由聞之士不中間見女嫁無媒君子不以交禮也始介也中間謂有間又顧謂子路子路又對如初孔子曰由詩不云乎有美一人清􅀭宛兮邂逅相遇適我願兮眉目清揚幽期而會令願也之間也宛然美也今程子天下賢士也於斯不贈則終身弗能見也小子行之孔子自衞反魯息駕于河梁而觀焉無梁河水言事者通渭水爲河也莊周書說孔子於閭梁有懸水三十仞尺八四丈者也曰仞懸二十圜流九十里水深急則然圜流廻流也魚鱉不能導黿鼉不能居行道有一丈夫方將厲之渡厲孔子使人並涯止之曰此懸水三十仞圜流九十里魚鼈黿鼉不能居也意者難可濟也丈夫不以措意遂渡而出孔子問之曰子乎有道術乎所以能入而出者何也丈夫對曰始吾之入也先以忠信及吾之出也又從以忠信忠信措吾軀於波流而吾不敢以用私所以能入而復出也孔子謂弟子曰二三子識之水且猶可以忠信成身親之而况於人乎孔子将行雨而無蓋門人曰商也有之夏子也名孔子曰商之為人也甚恡於財甚也恡嗇吾聞與人交推其長者違其短者故能久也楚}
+  - {type: page-break, offset: 228, content: '', id: KR3a0001_SBCK_002-8a}
+  - {type: page-break, offset: 228, content: '', id: KR3a0001_SBCK_002-8b}
+  - {type: page-break, offset: 228, content: '', id: KR3a0001_SBCK_002-9a}
+  - {type: page-break, offset: 228, content: '', id: KR3a0001_SBCK_002-9b}
+  - {type: variant, offset: 228, length: 6, content: 殷湯誅尹諧文, WYG: 逺而有光者飭也近而愈明者學也譬之汙池水潦注焉雚葦生焉雖或以觀之孰知其源乎源泉源也水潦注於池而生雚葦觀者誰知其非源泉也以言學者雖從外入及其用之人誰知其非從此出也者乎子路見於孔子曰負重渉逺不擇地而休家貧親老不擇禄而仕昔者由也事二親之時常食藜藿之實為親負米百里之外親殁之後南遊於楚從車百乗積粟萬鍾累茵而坐列鼎而食願欲食藜藿為親負米不可復得也枯魚衘索幾何不蠧二親之夀忽若過隙孔子曰由也事親可謂生事盡力死事盡思者也孔子之郯郯國名也少昊之後所封之國也郯子達禮孔子故往諮問馬遭程子於塗傾葢而語傾葢駐車終日甚相親顧謂子路曰取束帛以贈先生贈送子路屑然對曰由聞之士不中間見女嫁無媒君子不以交禮也中間謂紹介也有間又顧謂子路子路乂對如初孔子曰由詩不云乎有美一人清揚宛兮邂逅相遇適我願兮清揚眉目之間也宛然美也幽期而會令願也今程子天下賢士也於斯不贈則終身不能見也小子行之孔子自衛反魯息駕于河梁而觀焉河水無梁荘周書説孔子於吕梁言事者通渭水為河也有懸水三十仞八尺曰仞懸二十四丈者也圜流九十里圜流回水也水深急則然魚鱉不能導黿鼉不能居導行有一丈夫方将厲之厲渡孔子使人並涯止之曰此懸水三十仞圜流九十里魚鼈黿鼉不能居也意者難可濟也丈夫不以措意遂渡而出孔子問之曰巧乎有道術乎所以能入而出者何也丈夫對曰始吾之入也先以忠信及吾之出也又從以忠信忠信措吾軀於波流而吾不敢以用私所以能入而復出也孔子謂弟子曰二三子識之水且猶可以忠信成身親之而況於人乎孔子将行雨而無葢門人曰商也有之子夏名也孔子曰商之為人也甚恡於財恡嗇甚也吾聞與人交推其長者違其短者故能久也楚昭}
+  - {type: page-break, offset: 228, content: '', id: KR3a0001_WYG_002-7a, image: WYG0695/WYG0695-0019c.png}
+  - {type: page-break, offset: 228, content: '', id: KR3a0001_WYG_002-7b, image: WYG0695/WYG0695-0019d.png}
+  - {type: page-break, offset: 228, content: '', id: KR3a0001_WYG_002-8a, image: WYG0695/WYG0695-0020a.png}
+  - {type: page-break, offset: 228, content: '', id: KR3a0001_WYG_002-8b, image: WYG0695/WYG0695-0020b.png}
+  - {type: variant, offset: 228, length: 6, content: 殷湯誅尹諧文, krp: 逺而有光者飭也近而愈明者學也譬之汙池水潦注焉雚葦生焉雖或以觀之孰知其源乎水潦注於源泉源也學者雖從外入及其用之人誰知其非從池而生雚葦觀者誰知其非源泉乎以言者乎此出也子路見於孔子曰負重渉逺不擇地而休家貧親老不擇禄而仕昔者由也事二親之時常食藜藿之實為親負米百里之外親殁之後南遊於楚從車百乗積粟萬鍾累茵而坐列鼎而食願欲食藜藿為親負米不可復得也枯魚衘索幾何不蠧二親之夀忽若過隟孔子曰由也事親可謂生事盡力死事盡思者也孔子之郯也郯子達禮孔子故徃諮問焉郯國名也少昊之後吾之本縣遭程子於塗傾蓋而語駐車傾蓋終日甚相親顧謂子路曰取束帛以贈先生送贈子路屑然對曰由聞之士不中間見女嫁無媒君子不以交禮也始介也中間謂有間又顧謂子路子路又對如初孔子曰由詩不云乎有美一人清揚宛兮邂逅相遇適我願兮眉目清揚幽期而會令願也之間也宛然美也今程子天下賢士也於斯不贈則終身弗能見也小子行之孔子自衞反魯息駕于河梁而觀焉無梁河水言事者通渭水爲河也莊周書說孔子於閭梁有懸水三十仞尺八四丈者也曰仞懸二十圜流九十里水深急則然圜流廻流也魚鱉不能導黿鼉不能居行道有一丈夫方將厲之渡厲孔子使人並涯止之曰此懸水三十仞圜流九十里魚鼈黿鼉不能居也意者難可濟也丈夫不以措意遂渡而出孔子問之曰子乎有道術乎所以能入而出者何也丈夫對曰始吾之入也先以忠信及吾之出也又從以忠信忠信措吾軀於波流而吾不敢以用私所以能入而復出也孔子謂弟子曰二三子識之水且猶可以忠信成身親之而况於人乎孔子将行雨而無蓋門人曰商也有之夏子也名孔子曰商之為人也甚恡於財甚也恡嗇吾聞與人交推其長者違其短者故能久也楚}
+  - {type: punctuation, offset: 233, content: ，, id: KR3a0001_CHANT_002-bkkpn47}
+  - {type: 'tls:seg', offset: 233, content: '', id: KR3a0001_CHANT_002-1a.42}
+  - {type: variant, offset: 235, length: 18, content: 誅潘正周公誅管蔡太公誅華士管仲誅付乙, SBCK: 渡江江中有物大如斗圓而赤直觸王舟舟人取之王大怪之遍問羣臣莫之能識王使使聘于魯問於孔}
+  - {type: page-break, offset: 235, content: '', id: KR3a0001_SBCK_002-10a}
+  - {type: variant, offset: 235, length: 18, content: 誅潘正周公誅管蔡太公誅華士管仲誅付乙, WYG: 渡江江中有物大如斗圓而赤直觸王舟舟人取之王大怪之遍問羣臣莫之能識王使使聘于魯問於孔}
+  - {type: variant, offset: 235, length: 18, content: 誅潘正周公誅管蔡太公誅華士管仲誅付乙, krp: 渡江江中有物大如斗圓而赤直觸王舟舟人取之王大怪之遍問羣臣莫之能識王使使聘于魯問於孔}
+  - {type: punctuation, offset: 238, content: ，, id: KR3a0001_CHANT_002-bkkpn48}
+  - {type: page-break, offset: 238, content: '', id: KR3a0001_WYG_001-5a}
+  - {type: 'tls:seg', offset: 238, content: '', id: KR3a0001_CHANT_002-1a.43}
+  - {type: line-break, offset: 239, content: '', id: SBCK_001-5b.03}
+  - {type: punctuation, offset: 243, content: ，, id: KR3a0001_CHANT_002-bkkpn49}
+  - {type: 'tls:seg', offset: 243, content: '', id: KR3a0001_CHANT_002-1a.44}
+  - {type: punctuation, offset: 248, content: ，, id: KR3a0001_CHANT_002-bkkpn50}
+  - {type: line-break, offset: 248, content: '', id: WYG_001-5a.02}
+  - {type: line-break, offset: 248, content: '', id: SBCK_001-5b.04}
+  - {type: 'tls:seg', offset: 248, content: '', id: KR3a0001_CHANT_002-1a.45}
+  - {type: line-break, offset: 250, content: '', id: SBCK_001-5b.05}
+  - {type: punctuation, offset: 253, content: ，, id: KR3a0001_CHANT_002-bkkpn51}
+  - {type: 'tls:seg', offset: 253, content: '', id: KR3a0001_CHANT_002-1a.46}
+  - {type: line-break, offset: 254, content: '', id: WYG_001-5a.03}
+  - {type: variant, offset: 254, length: 3, content: 產誅史, SBCK: 子曰此所謂萍實者也草也萍水可剖而食之吉祥也唯霸者爲能獲焉使者反王遂食之大美久之使來以告魯大夫大夫因子游問曰夫子}
+  - {type: variant, offset: 254, length: 3, content: 產誅史, WYG: 子曰此所謂萍實者也萍水草也可剖而食之吉祥也唯霸者為能獲焉使者返王遂食之大美久之使来以告魯大夫大夫因子游問曰夫子}
+  - {type: variant, offset: 254, length: 3, content: 產誅史, krp: 子曰此所謂萍實者也草也萍水可剖而食之吉祥也唯霸者爲能獲焉使者反王遂食之大美久之使來以告魯大夫大夫因子游問曰夫子}
+  - {type: substitution, offset: 254, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
+  - {type: punctuation, offset: 258, content: ，, id: KR3a0001_CHANT_002-bkkpn52}
+  - {type: 'tls:seg', offset: 258, content: '', id: KR3a0001_CHANT_002-1a.47}
+  - {type: variant, offset: 258, length: 1, content: 凡, SBCK: 以知其然乎曰吾昔之鄭過乎陳之野聞童謠曰楚王渡江得萍實大如斗赤如日剖而食之甜如蜜}
+  - {type: variant, offset: 258, length: 1, content: 凡, WYG: 以知其然曰吾昔之鄭過乎陳之野聞童謠曰楚王渡江得萍實大如斗赤如日剖而食之甜如蜜}
+  - {type: variant, offset: 258, length: 1, content: 凡, krp: 以知其然乎曰吾昔之鄭過乎陳之野聞童謠曰楚王渡江得萍實大如斗赤如日剖而食之甜如蜜}
+  - {type: variant, offset: 260, length: 1, content: 七, SBCK: 是楚王之應也吾是以知之}
+  - {type: variant, offset: 260, length: 1, content: 七, WYG: 是楚王之應也吾是以知之}
+  - {type: page-break, offset: 260, content: '', id: KR3a0001_WYG_002-9a, image: WYG0695/WYG0695-0020c.png}
+  - {type: variant, offset: 260, length: 1, content: 七, krp: 是楚王之應也吾是以知之}
+  - {type: page-break, offset: 261, content: '', id: KR3a0001_SBCK_002-10b}
+  - {type: variant, offset: 262, length: 0, content: '', SBCK: 貢問於孔子曰死者有知乎将無知乎子曰吾欲言死之有知将恐孝子順孫妨生以送死吾欲言死之無知将恐不孝之子棄其親而不葬賜不欲知死者有知與無知非今之急後自知之子貢問治民於孔子子曰懔懔焉若持腐索之扞馬貌扞馬突馬懔懔戒懼之子貢曰何其畏也孔子曰夫通達御皆人也以道導之則吾畜也不以道導之則吾讎也如之何其無畏也魯國之法贖人臣妾于諸侯}
+  - {type: page-break, offset: 262, content: '', id: KR3a0001_SBCK_002-11a}
+  - {type: variant, offset: 262, length: 0, content: '', WYG: 貢問於孔子曰死者有知乎将無知乎子曰吾欲言死之有知将恐孝子順孫妨生以送死吾欲言死之無知将恐不孝之子棄其親而不葬賜不欲知死者有知與無知非今之急後自知之子貢問治民於孔子子曰懔懔焉若持腐索之扞馬懔懔戒懼之貌扞馬突馬子貢曰何其畏也孔子曰夫通達御之皆人也以道導之則吾畜也不以道導之則吾讐也如之何其無畏也魯國之法贖人臣妾于諸侯}
+  - {type: variant, offset: 262, length: 0, content: '', krp: 貢問於孔子曰死者有知乎将無知乎子曰吾欲言死之有知将恐孝子順孫妨生以送死吾欲言死之無知将恐不孝之子棄其親而不葬賜不欲知死者有知與無知非今之急後自知之子貢問治民於孔子子曰懔懔焉若持腐索之扞馬貌扞馬突馬懔懔戒懼之子貢曰何其畏也孔子曰夫通達御皆人也以道導之則吾畜也不以道導之則吾讎也如之何其無畏也魯國之法贖人臣妾于諸侯}
+  - {type: variant, offset: 264, length: 2, content: 異世, SBCK: 取金於府子貢贖之辭}
+  - {type: variant, offset: 264, length: 2, content: 異世, WYG: 取金於府子貢贖之辭}
+  - {type: variant, offset: 264, length: 2, content: 異世, krp: 取金於府子貢贖之辭}
+  - {type: line-break, offset: 266, content: '', id: SBCK_001-5b.06}
+  - {type: variant, offset: 267, length: 2, content: 同誅, SBCK: 不取金孔子聞之曰賜失之矣夫聖人之舉事也可以移風易俗而教導可以施之於百姓非獨適身之行也今魯國富}
+  - {type: variant, offset: 267, length: 2, content: 同誅, WYG: 不取金孔子聞之曰賜失之矣夫聖人之舉事也可以移風易俗而教導可以施之於百姓非獨適身之行也今魯國富}
+  - {type: page-break, offset: 267, content: '', id: KR3a0001_WYG_002-9b, image: WYG0695/WYG0695-0020d.png}
+  - {type: variant, offset: 267, length: 2, content: 同誅, krp: 不取金孔子聞之曰賜失之矣夫聖人之舉事也可以移風易俗而教導可以施之於百姓非獨適身之行也今魯國富}
+  - {type: punctuation, offset: 270, content: ，, id: KR3a0001_CHANT_002-bkkpn53}
+  - {type: 'tls:seg', offset: 270, content: '', id: KR3a0001_CHANT_002-1a.48}
+  - {type: variant, offset: 270, length: 0, content: '', SBCK: 寡而貧者衆贖人受金則為不廉則何}
+  - {type: variant, offset: 270, length: 0, content: '', WYG: 寡而貧者衆贖人受金則為不廉則何}
+  - {type: variant, offset: 270, length: 0, content: '', krp: 寡而貧者衆贖人受金則為不廉則何}
+  - {type: variant, offset: 271, length: 1, content: 七, SBCK: 相贖乎自今以後魯人不復贖人於諸侯}
+  - {type: variant, offset: 271, length: 1, content: 七, WYG: 相贖乎自今以後魯人不復贖人於諸侯}
+  - {type: variant, offset: 271, length: 1, content: 七, krp: 相贖乎自今以後魯人不復贖人於諸侯}
+  - {type: variant, offset: 273, length: 2, content: 異世, SBCK: 路治蒲請見於孔子曰由願受教於夫子子曰蒲其何如對曰邑多壯士又難治也子曰然吾語爾恭}
+  - {type: page-break, offset: 273, content: '', id: KR3a0001_SBCK_002-11b}
+  - {type: variant, offset: 273, length: 2, content: 異世, WYG: 路治蒲請見於孔子曰由願受教於夫子子曰蒲其何如對曰邑多壯士又難治也子曰然吾語爾恭}
+  - {type: variant, offset: 273, length: 2, content: 異世, krp: 路治蒲請見於孔子曰由願受教於夫子子曰蒲其何如對曰邑多壯士又難治也子曰然吾語爾恭}
+  - {type: line-break, offset: 276, content: '', id: WYG_001-5a.04}
+  - {type: variant, offset: 276, length: 3, content: 同惡故, SBCK: 敬可以攝勇寛而正可以懐强愛而恕可以容困能容困窮言愛恕者温而斷可以抑姦如此而加之則正}
+  - {type: variant, offset: 276, length: 3, content: 同惡故, WYG: 敬可以攝勇寛而正可以懐强愛而恕可以容困言愛恕者能容困窮温而斷可以抑姦如此而加之則正}
+  - {type: variant, offset: 276, length: 3, content: 同惡故, krp: 敬可以攝勇寛而正可以懐强愛而恕可以容困能容困窮言愛恕者温而斷可以抑姦如此而加之則正}
+  - {type: punctuation, offset: 278, content: ，, id: KR3a0001_CHANT_002-bkkpn54}
+  - {type: 'tls:seg', offset: 278, content: '', id: KR3a0001_CHANT_002-1a.49}
+  - {type: variant, offset: 280, length: 0, content: '', SBCK: 難矣三恕第九孔子曰君子有三恕有君不能事有臣而求其使非恕也有親不能孝有子而求其報非恕也有兄不能敬有弟而求其順非恕也士能明於三恕之本則}
+  - {type: page-break, offset: 280, content: '', id: KR3a0001_SBCK_002-12a}
+  - {type: variant, offset: 280, length: 0, content: '', WYG: 難矣三恕第九孔子曰君子有三恕有君不能事有臣而求其使非恕也有親不能孝有子而求其報非恕也有兄不能敬有弟而求其順非恕也士能明於三恕之本則}
+  - {type: page-break, offset: 280, content: '', id: KR3a0001_WYG_002-10a, image: WYG0695/WYG0695-0021a.png}
+  - {type: variant, offset: 280, length: 0, content: '', krp: 難矣三恕第九孔子曰君子有三恕有君不能事有臣而求其使非恕也有親不能孝有子而求其報非恕也有兄不能敬有弟而求其順非恕也士能明於三恕之本則}
+  - {type: variant, offset: 281, length: 19, content: 赦也詩云憂心悄悄慍于群小小人成群斯足憂, SBCK: 謂端身}
+  - {type: variant, offset: 281, length: 19, content: 赦也詩云憂心悄悄慍于群小小人成群斯足憂, WYG: 謂端身}
+  - {type: variant, offset: 281, length: 19, content: 赦也詩云憂心悄悄慍于群小小人成群斯足憂, krp: 謂端身}
+  - {type: punctuation, offset: 283, content: 。, id: KR3a0001_CHANT_002-bkkpn55}
+  - {type: 'tls:seg', offset: 283, content: '', id: KR3a0001_CHANT_002-1a.50}
+  - {type: line-break, offset: 283, content: '', id: SBCK_001-5b.07}
+  - {type: punctuation, offset: 283, content: 《, id: KR3a0001_CHANT_002-bkkpn56}
+  - {type: line-break, offset: 283, content: '', id: SBCK_001-5b.07_dup2}
+  - {type: punctuation, offset: 284, content: 》, id: KR3a0001_CHANT_002-bkkpn57}
+  - {type: line-break, offset: 284, content: '', id: SBCK_001-5b.07_dup3}
+  - {type: punctuation, offset: 285, content: ：, id: KR3a0001_CHANT_002-bkkpn58}
+  - {type: line-break, offset: 285, content: '', id: SBCK_001-5b.07_dup4}
+  - {type: 'tls:seg', offset: 285, content: '', id: KR3a0001_CHANT_002-1a.51}
+  - {type: punctuation, offset: 285, content: 『, id: KR3a0001_CHANT_002-bkkpn59}
+  - {type: punctuation, offset: 289, content: ，, id: KR3a0001_CHANT_002-bkkpn60}
+  - {type: 'tls:seg', offset: 289, content: '', id: KR3a0001_CHANT_002-1a.52}
+  - {type: substitution, offset: 291, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: punctuation, offset: 293, content: 。, id: KR3a0001_CHANT_002-bkkpn61}
+  - {type: punctuation, offset: 293, content: 』, id: KR3a0001_CHANT_002-bkkpn62}
+  - {type: 'tls:seg', offset: 293, content: '', id: KR3a0001_CHANT_002-1a.53}
+  - {type: substitution, offset: 296, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: punctuation, offset: 297, content: ，, id: KR3a0001_CHANT_002-bkkpn63}
+  - {type: 'tls:seg', offset: 297, content: '', id: KR3a0001_CHANT_002-1a.54}
+  - {type: line-break, offset: 297, content: '', id: WYG_001-5a.05}
+  - {type: line-break, offset: 299, content: '', id: SBCK_001-5b.08}
+  - {type: line-break, offset: 299, content: '', id: WYG_001-5a.05_dup2}
+  - {type: punctuation, offset: 301, content: 。, id: KR3a0001_CHANT_002-bkkpn64}
+  - {type: line-break, offset: 301, content: '', id: WYG_001-5a.05_dup3}
+  - {type: punctuation, offset: 301, content: 」, id: KR3a0001_CHANT_002-bkkpn65}
+  - {type: line-break, offset: 301, content: '', id: WYG_001-5a.05_dup4}
+  - {type: xml-element, offset: 301, content: '', id: KR3a0001_CHANT_002-bkkxmlele2}
+  - {type: xml-element, offset: 301, content: '', id: KR3a0001_CHANT_002-bkkxmlele3}
+  - {type: 'tls:seg', offset: 301, content: '', id: KR3a0001_CHANT_002-2a.1}
+  - {type: 'tls:seg', offset: 301, content: '', id: KR3a0001_CHANT_002-2a.2}
+  - {type: 'tls:seg', offset: 301, content: '', id: KR3a0001_CHANT_002-2a.3}
+  - {type: line-break, offset: 301, content: '', id: SBCK_001-5b.09}
+  - {type: variant, offset: 303, length: 0, content: '', SBCK: 曰君子有三思不可不察也少而不學長無能也老而不教死莫之思也有而不施窮莫之救也故君子少思其長則務學老思其死則務教有思其窮則務施伯常騫問於孔子曰騫固周國之賤吏也不自以不肖将北面以事君子敢問正道宜行不容於世貴故行之則不容於世正道宜行而出莫之能隠道宜行然亦不忍然亦不忍爲隱事世亂則隱道爲行今欲身亦不窮道亦不隠}
+  - {type: page-break, offset: 303, content: '', id: KR3a0001_SBCK_002-12b}
+  - {type: variant, offset: 303, length: 0, content: '', WYG: 曰君子有三思不可不察也少而不學長無能也老而不教死莫之思也有而不施窮莫之救也故君子少思其長則務學老思其死則務教有思其窮則務施伯常騫問於孔子曰騫固周國之賤吏也不自以不肖将北面以事君子敢問正道宜行不容於世正道宜行而世莫之能貴故行之則不容於世隠道宜行然亦不忍世亂則隠道}
+  - {type: page-break, offset: 303, content: '', id: KR3a0001_WYG_002-10b, image: WYG0695/WYG0695-0021b.png}
+  - {type: variant, offset: 303, length: 0, content: '', krp: 曰君子有三思不可不察也少而不學長無能也老而不教死莫之思也有而不施窮莫之救也故君子少思其長則務學老思其死則務教有思其窮則務施伯常騫問於孔子曰騫固周國之賤吏也不自以不肖将北面以事君子敢問正道宜行不容於世貴故行之則不容於世正道宜行而出莫之能隠道宜行然亦不忍然亦不忍爲隱事世亂則隱道爲行今欲身亦不窮道亦不隠}
+  - {type: variant, offset: 304, length: 0, content: '', SBCK: 之有道乎孔子曰善哉子之問也自丘之聞未有若吾子所問辯且説也得其説矣辯當其理丘嘗聞君子之言道矣聽者無察則道不入道則不能入也言聽者不明察竒偉不稽則道不信考校奇偉則道不見稽考也聽道者不能人道不虚行信此言苟非其又嘗聞君子之言事矣制無度量則事不成其政曉察則民不保安保察則民不安矣也政大曉了分又嘗聞君子之言志矣㓻折者不終終其性命矣㓻則折矣不徑易者則數傷輕徑傷於義矣也志輕則數浩倨者則不親恭如是則不浩倨簡略不矣親就利者則無不弊不可久也言好利者又嘗聞養世之君子矣從輕勿為先從重勿為後憂赴重者宜爲先養世者也患從勞苦輕者宜爲後見像而勿强也見像法以強世也法而已不陳道而勿怫不與世相詭違也怫詭也陳道而已此四者丘之所聞也孔子觀於}
+  - {type: page-break, offset: 304, content: '', id: KR3a0001_SBCK_002-13a}
+  - {type: variant, offset: 304, length: 0, content: '', WYG: 行然亦不忍為隠事今欲身亦不窮道亦不隠為之有道乎孔子曰善哉子之問也自丘之聞未有若吾子所問辨且説也辯當其理得其説矣丘嘗聞君子之言道矣聽者無察則道不入言聽者不明察道則不能入也竒偉不稽則道不信稽考也聽道者不能考校竒偉則道不見信此言苟非其人道不虚行又嘗聞君子之言事矣制無度量則事不成其政曉察則民不保保安也政大曉了分察則民不安也又嘗聞君子之言志矣剛折者不終剛則折矣不終其性命矣俓易者則數傷俓輕也志輕則數傷於義矣浩倨者則不親浩倨簡畧不恭如是則不親矣就利者則無不弊言好利者不可久也又嘗聞養世之君子矣從輕勿為先從重勿為後赴憂患從勞苦輕者宜為後重者宜為先養世者也見像而勿强像法也見法而已不以强世也陳道而勿怫怫詭也陳道而已不與世相詭違也此四者丘之所聞也孔子觀於}
+  - {type: page-break, offset: 304, content: '', id: KR3a0001_WYG_002-11a, image: WYG0695/WYG0695-0021c.png}
+  - {type: variant, offset: 304, length: 0, content: '', krp: 之有道乎孔子曰善哉子之問也自丘之聞未有若吾子所問辯且説也得其説矣辯當其理丘嘗聞君子之言道矣聽者無察則道不入道則不能入也言聽者不明察竒偉不稽則道不信考校奇偉則道不見稽考也聽道者不能人道不虚行信此言苟非其又嘗聞君子之言事矣制無度量則事不成其政曉察則民不保安保察則民不安矣也政大曉了分又嘗聞君子之言志矣㓻折者不終終其性命矣㓻則折矣不徑易者則數傷輕徑傷於義矣也志輕則數浩倨者則不親恭如是則不浩倨簡略不矣親就利者則無不弊不可久也言好利者又嘗聞養世之君子矣從輕勿為先從重勿為後憂赴重者宜爲先養世者也患從勞苦輕者宜爲後見像而勿强也見像法以強世也法而已不陳道而勿怫不與世相詭違也怫詭也陳道而已此四者丘之所聞也孔子觀於}
+  - {type: variant, offset: 305, length: 3, content: 大司寇, SBCK: 桓公之廟}
+  - {type: variant, offset: 305, length: 3, content: 大司寇, WYG: 桓公之廟}
+  - {type: variant, offset: 305, length: 3, content: 大司寇, krp: 桓公之廟}
+  - {type: punctuation, offset: 308, content: 。, id: KR3a0001_CHANT_002-bkkpn66}
+  - {type: line-break, offset: 308, content: '', id: SBCK_001-5b.09_dup2}
+  - {type: 'tls:seg', offset: 308, content: '', id: KR3a0001_CHANT_002-2a.4}
+  - {type: variant, offset: 309, length: 4, content: 父子訟者, SBCK: 欹器焉傾欹}
+  - {type: variant, offset: 309, length: 4, content: 父子訟者, WYG: 欹器焉歆領}
+  - {type: variant, offset: 309, length: 4, content: 父子訟者, krp: 欹器焉傾欹}
+  - {type: punctuation, offset: 313, content: ，, id: KR3a0001_CHANT_002-bkkpn67}
+  - {type: 'tls:seg', offset: 313, content: '', id: KR3a0001_CHANT_002-2a.5}
+  - {type: variant, offset: 315, length: 3, content: 同狴執, SBCK: 問於守廟者曰此謂何器對曰此蓋為宥坐}
+  - {type: variant, offset: 315, length: 3, content: 同狴執, WYG: 問於守廟者曰此謂何器對曰此葢為宥坐}
+  - {type: variant, offset: 315, length: 3, content: 同狴執, krp: 問於守廟者曰此謂何器對曰此蓋為宥坐}
+  - {type: page-break, offset: 317, content: '', id: KR3a0001_SBCK_001-6a}
+  - {type: line-break, offset: 318, content: '', id: WYG_001-5a.06}
+  - {type: punctuation, offset: 319, content: ，, id: KR3a0001_CHANT_002-bkkpn68}
+  - {type: 'tls:seg', offset: 319, content: '', id: KR3a0001_CHANT_002-2a.6}
+  - {type: variant, offset: 319, length: 59, content: 三月不別其父請止夫子赦之焉季孫聞之不說曰司寇欺余曩告余曰為國家必先以孝余今戮一不孝以教民孝不亦可乎而又赦之何哉冉有以告, SBCK: 器}
+  - {type: variant, offset: 319, length: 59, content: 三月不別其父請止夫子赦之焉季孫聞之不說曰司寇欺余曩告余曰為國家必先以孝余今戮一不孝以教民孝不亦可乎而又赦之何哉冉有以告, WYG: 器}
+  - {type: variant, offset: 319, length: 59, content: 三月不別其父請止夫子赦之焉季孫聞之不說曰司寇欺余曩告余曰為國家必先以孝余今戮一不孝以教民孝不亦可乎而又赦之何哉冉有以告, krp: 器}
+  - {type: punctuation, offset: 323, content: ，, id: KR3a0001_CHANT_002-bkkpn69}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR3a0001_CHANT_002-2a.7}
+  - {type: punctuation, offset: 327, content: ，, id: KR3a0001_CHANT_002-bkkpn70}
+  - {type: 'tls:seg', offset: 327, content: '', id: KR3a0001_CHANT_002-2a.8}
+  - {type: line-break, offset: 331, content: '', id: SBCK_001-6a.02}
+  - {type: punctuation, offset: 332, content: 。, id: KR3a0001_CHANT_002-bkkpn71}
+  - {type: 'tls:seg', offset: 332, content: '', id: KR3a0001_CHANT_002-2a.9}
+  - {type: punctuation, offset: 336, content: ，, id: KR3a0001_CHANT_002-bkkpn72}
+  - {type: 'tls:seg', offset: 336, content: '', id: KR3a0001_CHANT_002-2a.10}
+  - {type: line-break, offset: 337, content: '', id: WYG_001-5a.07}
+  - {type: punctuation, offset: 338, content: ，, id: KR3a0001_CHANT_002-bkkpn73}
+  - {type: 'tls:seg', offset: 338, content: '', id: KR3a0001_CHANT_002-2a.11}
+  - {type: punctuation, offset: 339, content: ：, id: KR3a0001_CHANT_002-bkkpn74}
+  - {type: 'tls:seg', offset: 339, content: '', id: KR3a0001_CHANT_002-2a.12}
+  - {type: punctuation, offset: 339, content: 「, id: KR3a0001_CHANT_002-bkkpn75}
+  - {type: punctuation, offset: 343, content: ，, id: KR3a0001_CHANT_002-bkkpn76}
+  - {type: 'tls:seg', offset: 343, content: '', id: KR3a0001_CHANT_002-2a.13}
+  - {type: punctuation, offset: 347, content: ：, id: KR3a0001_CHANT_002-bkkpn77}
+  - {type: 'tls:seg', offset: 347, content: '', id: KR3a0001_CHANT_002-2a.14}
+  - {type: line-break, offset: 347, content: '', id: SBCK_001-6a.03}
+  - {type: punctuation, offset: 354, content: 。, id: KR3a0001_CHANT_002-bkkpn78}
+  - {type: line-break, offset: 354, content: '', id: SBCK_001-6a.03_dup2}
+  - {type: 'tls:seg', offset: 354, content: '', id: KR3a0001_CHANT_002-2a.15}
+  - {type: line-break, offset: 359, content: '', id: WYG_001-5a.08}
+  - {type: punctuation, offset: 364, content: ，, id: KR3a0001_CHANT_002-bkkpn79}
+  - {type: 'tls:seg', offset: 364, content: '', id: KR3a0001_CHANT_002-2a.16}
+  - {type: line-break, offset: 364, content: '', id: SBCK_001-6a.04}
+  - {type: punctuation, offset: 368, content: ？, id: KR3a0001_CHANT_002-bkkpn80}
+  - {type: line-break, offset: 368, content: '', id: SBCK_001-6a.04_dup2}
+  - {type: 'tls:seg', offset: 368, content: '', id: KR3a0001_CHANT_002-2a.17}
+  - {type: punctuation, offset: 372, content: ，, id: KR3a0001_CHANT_002-bkkpn81}
+  - {type: 'tls:seg', offset: 372, content: '', id: KR3a0001_CHANT_002-2a.18}
+  - {type: punctuation, offset: 374, content: ？, id: KR3a0001_CHANT_002-bkkpn82}
+  - {type: punctuation, offset: 374, content: 」, id: KR3a0001_CHANT_002-bkkpn83}
+  - {type: 'tls:seg', offset: 374, content: '', id: KR3a0001_CHANT_002-2a.19}
+  - {type: punctuation, offset: 380, content: ，, id: KR3a0001_CHANT_002-bkkpn84}
+  - {type: 'tls:seg', offset: 380, content: '', id: KR3a0001_CHANT_002-2a.20}
+  - {type: line-break, offset: 380, content: '', id: SBCK_001-6a.05}
+  - {type: variant, offset: 380, length: 1, content: 孔, SBCK: 曰吾聞宥坐之器虚則欹中則正滿則覆明君以為至誡故常置之於坐側顧謂弟子曰試注水焉乃注之水中則正滿則覆夫}
+  - {type: page-break, offset: 380, content: '', id: KR3a0001_SBCK_002-13b}
+  - {type: variant, offset: 380, length: 1, content: 孔, WYG: 曰吾聞宥坐之器虚則欹中則正滿則覆明君以為至誡故常置之於坐側顧謂弟子曰試注水焉乃注之水中則正滿則覆夫}
+  - {type: page-break, offset: 380, content: '', id: KR3a0001_WYG_002-11b, image: WYG0695/WYG0695-0021d.png}
+  - {type: variant, offset: 380, length: 1, content: 孔, krp: 曰吾聞宥坐之器虚則欹中則正滿則覆明君以為至誡故常置之於坐側顧謂弟子曰試注水焉乃注之水中則正滿則覆夫}
+  - {type: punctuation, offset: 386, content: ：, id: KR3a0001_CHANT_002-bkkpn85}
+  - {type: line-break, offset: 386, content: '', id: SBCK_001-6a.05_dup2}
+  - {type: page-break, offset: 386, content: '', id: KR3a0001_WYG_001-5b}
+  - {type: 'tls:seg', offset: 386, content: '', id: KR3a0001_CHANT_002-2a.21}
+  - {type: punctuation, offset: 386, content: 「, id: KR3a0001_CHANT_002-bkkpn86}
+  - {type: punctuation, offset: 388, content: ！, id: KR3a0001_CHANT_002-bkkpn87}
+  - {type: 'tls:seg', offset: 388, content: '', id: KR3a0001_CHANT_002-2a.22}
+  - {type: variant, offset: 388, length: 1, content: 上, SBCK: 夫物惡有滿而不覆哉子路進曰敢問持滿有道乎子曰聦明睿智守之以愚功被天下守之以讓勇力振世守之以怯富有四海守之以謙此所謂損之又損之之道也孔子觀於東流之水子貢問曰君子所見大水必觀焉何也孔子對曰以其不息且遍與諸生而不爲也夫水似乎德生者物遍與諸與生而又不德也得水而後生水不其流也則卑下倨邑必修其理似義浩浩乎無屈盡之期此似道流行赴百仞之嵠而不懼此似勇至量必平之此似法盛而不求概此似正綽約微達此似察發源必東此似志以出以入萬物就以化絜此似善化也水之德有若此是故君子見必觀焉子貢觀於魯廟之北堂出而問於孔子曰向也賜觀於太廟之堂未既輟還瞻北蓋皆斷焉之盖斷絶也輟止觀北面彼将有説耶匠過之也孔子曰太廟之堂宫致良工之匠匠致良材盡其功巧蓋貴久矣尚有説也必也尚猶有說言必孔子曰吾有所齒有所鄙有所殆夫㓜而不能强學老而無以教吾耻之去其鄉事君而逹卒遇故人曽無舊言吾鄙之而達事君其平生之舊交而無進之之心者乎得志於君而見故人曾無舊言是棄與小人處而不能親賢吾殆之而近小人是危殆危也夫踈賢道也亡之子路見於孔子孔子曰智者若何仁者若何子路對曰智者使人知己仁者使人愛己子曰可謂士矣子路出子貢入問亦如之子貢對曰智者知人仁者愛人子曰可謂士矣子貢出顔回入問亦如之對曰智者自知仁者自愛子曰可謂士君子矣子貢問於孔子曰子從父命孝臣從君命貞乎奚疑焉孔子曰鄙哉賜汝不識也昔者明王萬乗之國有争臣七人則主無過舉也四輔前曰疑後曰丞左曰輔右曰弼天子有三公四輔主諫爭以救其過}
+  - {type: page-break, offset: 388, content: '', id: KR3a0001_SBCK_002-14a}
+  - {type: page-break, offset: 388, content: '', id: KR3a0001_SBCK_002-14b}
+  - {type: page-break, offset: 388, content: '', id: KR3a0001_SBCK_002-15a}
+  - {type: page-break, offset: 388, content: '', id: KR3a0001_SBCK_002-15b}
+  - {type: variant, offset: 388, length: 1, content: 上, WYG: 夫物惡有滿而不覆哉子路進曰敢問持滿有道乎子曰聰明睿知守之以愚功被天下守之以讓勇力振世守之以法富有四海守之以謙此所謂損之又損之之道也孔子觀於東流之水子貢問曰君子所見大水必觀焉何也孔子曰以其不息且遍與諸生而不為也夫水似乎德遍與諸生者物德水而後生水不與生而又不德也其流也則卑下倨邑必循其理此似義浩浩乎無屈盡之期此似道流行赴百仞之嵠而不懼此似勇至量必平之此似法盛而不求概此似正綽約微達此似察發源必東此似志以出以入萬物就以化絜此似善化也水之德有若此是故君子見必觀焉子貢觀於魯廟之北堂出而問於孔子曰向也賜觀於太廟之堂未既輟還瞻北葢皆斷焉輟止觀北面之葢斷絶也彼将有説耶匠過之也孔子曰太廟之堂官致良工之匠匠致良材盡其功巧葢貴久矣尚有説也尚猶必也言必有説孔子曰吾有所恥有所鄙有所殆夫㓜而不能强學老而無以教吾恥之去其鄉事君而逹卒遇故人曽無舊言吾鄙之事君而達得志於君而見故人曽無舊言是棄其平生之舊交而無進之心者乎與小人處而不能親賢吾殆之殆危也夫疎賢而近小人是危亡之道子路見於孔子孔子曰智者若何仁者若何子路對曰智者使人知己仁者使人愛已子曰可謂士矣子路出子貢入問亦如之子貢對曰智者知人仁者愛人子曰可謂士矣子貢出顔回入問亦如之對曰智者自知仁者自愛子曰可謂士君子矣子貢問於孔子曰子從父命孝臣從君命貞乎奚疑焉孔子曰鄙哉賜汝不識也昔者明王萬乗之國有争臣七人則主無過舉天子有三公四輔主諫争以救其過}
+  - {type: page-break, offset: 388, content: '', id: KR3a0001_WYG_002-12a, image: WYG0695/WYG0695-0022a.png}
+  - {type: page-break, offset: 388, content: '', id: KR3a0001_WYG_002-12b, image: WYG0695/WYG0695-0022b.png}
+  - {type: page-break, offset: 388, content: '', id: KR3a0001_WYG_002-13a, image: WYG0695/WYG0695-0022c.png}
+  - {type: variant, offset: 388, length: 1, content: 上, krp: 夫物惡有滿而不覆哉子路進曰敢問持滿有道乎子曰聦明睿智守之以愚功被天下守之以讓勇力振世守之以怯富有四海守之以謙此所謂損之又損之之道也孔子觀於東流之水子貢問曰君子所見大水必觀焉何也孔子對曰以其不息且遍與諸生而不爲也夫水似乎德生者物遍與諸與生而又不德也得水而後生水不其流也則卑下倨邑必修其理似義浩浩乎無屈盡之期此似道流行赴百仞之嵠而不懼此似勇至量必平之此似法盛而不求概此似正綽約微達此似察發源必東此似志以出以入萬物就以化絜此似善化也水之德有若此是故君子見必觀焉子貢觀於魯廟之北堂出而問於孔子曰向也賜觀於太廟之堂未既輟還瞻北蓋皆斷焉之盖斷絶也輟止觀北面彼将有説耶匠過之也孔子曰太廟之堂宫致良工之匠匠致良材盡其功巧蓋貴久矣尚有説也必也尚猶有說言必孔子曰吾有所齒有所鄙有所殆夫㓜而不能强學老而無以教吾耻之去其鄉事君而逹卒遇故人曽無舊言吾鄙之而達事君其平生之舊交而無進之之心者乎得志於君而見故人曾無舊言是棄與小人處而不能親賢吾殆之而近小人是危殆危也夫踈賢道也亡之子路見於孔子孔子曰智者若何仁者若何子路對曰智者使人知己仁者使人愛己子曰可謂士矣子路出子貢入問亦如之子貢對曰智者知人仁者愛人子曰可謂士矣子貢出顔回入問亦如之對曰智者自知仁者自愛子曰可謂士君子矣子貢問於孔子曰子從父命孝臣從君命貞乎奚疑焉孔子曰鄙哉賜汝不識也昔者明王萬乗之國有争臣七人則主無過舉也四輔前曰疑後曰丞左曰輔右曰弼天子有三公四輔主諫爭以救其過}
+  - {type: variant, offset: 390, length: 0, content: '', SBCK: 也千乗之國有争臣五人則社稷不危也内外者也故有五人焉諸侯有三卿股肱之臣有百乗之家有争臣三人宰凡三人能以義諫諍大夫之臣有室老家相邑則禄位不替父有争子不陷無禮士有争友不行不義君故湏朋友之諫爭於巳然後不義士雖有臣旣微且陋不能以義匡}
+  - {type: variant, offset: 390, length: 0, content: '', WYG: 也四輔前曰疑後曰丞左曰輔右曰弼也千乗之國有争臣五人則社稷不危也諸侯有三卿股肱之臣有内外者也故有五人焉百乗之家有争臣三人大夫有臣室老家相邑宰凡三人能以義諫諍則禄位不替父有争子不陷無禮士有争友不行不義士雖有臣既微且陋不能以義匡}
+  - {type: variant, offset: 390, length: 0, content: '', krp: 也千乗之國有争臣五人則社稷不危也内外者也故有五人焉諸侯有三卿股肱之臣有百乗之家有争臣三人宰凡三人能以義諫諍大夫之臣有室老家相邑則禄位不替父有争子不陷無禮士有争友不行不義君故湏朋友之諫爭於巳然後不義士雖有臣旣微且陋不能以義匡}
+  - {type: variant, offset: 391, length: 0, content: '', SBCK: 行之者也之事不得故子從父命奚詎為孝臣從君命奚詎為貞夫能審其所從宜從與不當詳審所之謂孝之謂貞矣子路盛服見於孔子子曰由是倨倨者何也夫江始出於岷山其源可以濫觴以盛觴可其微酒言及其至于江津不舫舟不避風則不可以渉非唯下流水多耶今爾衣服既盛顔色充盈天下且孰肯以非告汝乎子路趨而出改服而入蓋自若也子曰由志之吾告汝奮於言者華者華而無實自矜奮於言奮於行者伐者是自伐自矜奮行夫色智而有能者小人也故君子知之曰智言之要也不能曰不能行之至也言要則智行至則仁既仁且智惡不足哉子路問於孔子曰有人於此披褐而懐玉何如布衣褐毛子曰國無道隠之可也國有道則衮冕而執玉衣盛􅅚衮冕文好生第十魯哀公問於孔子曰昔者舜冠何冠乎孔子不對公曰寡人有問於子而子無言何也對曰以君之問不先其大者故方思所以為對公曰其大何乎孔子曰舜之為君也其政好生而惡殺其任授賢而替不肖德若天地而静虚化若四時而變物是以四海承風暢於異類之夷狄也異􅀋四方鳳翔麟至鳥獸馴德順馴無他也好生故也君舎此}
+  - {type: page-break, offset: 391, content: '', id: KR3a0001_SBCK_002-16a}
+  - {type: page-break, offset: 391, content: '', id: KR3a0001_SBCK_002-16b}
+  - {type: page-break, offset: 391, content: '', id: KR3a0001_SBCK_002-17a}
+  - {type: variant, offset: 391, length: 0, content: '', WYG: 君故須朋友之諫諍於已然後不義之事不得行之者也故子從父命奚詎為孝臣從君命奚詎為貞夫能審其所從當詳審所宜從與不之謂孝之謂貞矣子路盛服見於孔子子曰由是倨倨者何也夫江始出於岷山其源可以濫觴觴可以盛酒言其微及其至于江津不舫舟不避風則不可以渉非唯下流水多邪今爾衣服既盛顔色充盈天下且孰肯以非告汝乎子路趨而出改服而入葢自若也子曰由志之吾告汝奮於言者華自矜奮於言者華而無實奮於行者伐自矜奮行者是自伐夫色智而有能者小人也故君子知之曰智言之要也不能曰不能行之至也言要則智行至則仁既仁且智惡不足哉子路問於孔子曰有人於此被褐而懐玉何如褐毛布衣子曰國無道隠之可也國有道則衮冕而執玉衮冕文衣盛飾也好生第十魯哀公問於孔子曰昔者舜冠何冠乎孔子不對公曰寡人有問於子而子無言何也對曰以君之問不先其大者故方思所以為對公曰其大何乎孔子曰舜之為君也其政好生而惡殺其任授賢而替不肖德若天地而静虚化若四時而變物是以四海承風暢於異類異類四方之夷狄也鳳翔麟至鳥獸馴德馴順無他也好生故也君舎此}
+  - {type: page-break, offset: 391, content: '', id: KR3a0001_WYG_002-13b, image: WYG0695/WYG0695-0022d.png}
+  - {type: page-break, offset: 391, content: '', id: KR3a0001_WYG_002-14a, image: WYG0695/WYG0695-0023a.png}
+  - {type: page-break, offset: 391, content: '', id: KR3a0001_WYG_002-14b, image: WYG0695/WYG0695-0023b.png}
+  - {type: variant, offset: 391, length: 0, content: '', krp: 行之者也之事不得故子從父命奚詎為孝臣從君命奚詎為貞夫能審其所從宜從與不當詳審所之謂孝之謂貞矣子路盛服見於孔子子曰由是倨倨者何也夫江始出於岷山其源可以濫觴以盛觴可其微酒言及其至于江津不舫舟不避風則不可以渉非唯下流水多耶今爾衣服既盛顔色充盈天下且孰肯以非告汝乎子路趨而出改服而入蓋自若也子曰由志之吾告汝奮於言者華者華而無實自矜奮於言奮於行者伐者是自伐自矜奮行夫色智而有能者小人也故君子知之曰智言之要也不能曰不能行之至也言要則智行至則仁既仁且智惡不足哉子路問於孔子曰有人於此披褐而懐玉何如布衣褐毛子曰國無道隠之可也國有道則衮冕而執玉衣盛飾衮冕文好生第十魯哀公問於孔子曰昔者舜冠何冠乎孔子不對公曰寡人有問於子而子無言何也對曰以君之問不先其大者故方思所以為對公曰其大何乎孔子曰舜之為君也其政好生而惡殺其任授賢而替不肖德若天地而静虚化若四時而變物是以四海承風暢於異類之夷狄也異類四方鳳翔麟至鳥獸馴德順馴無他也好生故也君舎此}
+  - {type: variant, offset: 393, length: 0, content: '', SBCK: 冠冕是問是以緩對孔子讀史至楚復陳莊王討之因陳取之陳夏徵舒}
+  - {type: variant, offset: 393, length: 0, content: '', WYG: 冠冕是問是以緩對孔子讀史至楚復陳陳夏徵舒}
+  - {type: variant, offset: 393, length: 0, content: '', krp: 冠冕是問是以緩對孔子讀史至楚復陳莊王討之因陳取之陳夏徵舒}
+  - {type: variant, offset: 395, length: 0, content: '', SBCK: 君楚王從之還復陳而申叔時諫莊喟然歎曰賢哉楚王輕千乗之國而重一言之信匪申叔之信不能達其義匪荘王之賢不能受其訓孔子常自筮其卦得賁焉愀然有不平之状子張進曰師聞卜者得賁卦吉也而夫子之色有不平何也孔子對曰以其離耶在周易山}
+  - {type: page-break, offset: 395, content: '', id: KR3a0001_SBCK_002-17b}
+  - {type: variant, offset: 395, length: 0, content: '', WYG: 君楚荘王討之因陳取之而申叔時諫荘王從之還復陳喟然嘆曰賢哉楚王輕千乗之國而重一言之信匪申叔之信不能達其義匪荘王之賢不能受其訓孔子嘗自筮其卦得賁焉愀然有不平之状子張進曰師聞卜者得賁卦吉也而夫子之色有不平何也孔子對曰以其离耶在周易山}
+  - {type: variant, offset: 395, length: 0, content: '', krp: 君楚王從之還復陳而申叔時諫莊喟然歎曰賢哉楚王輕千乗之國而重一言之信匪申叔之信不能達其義匪荘王之賢不能受其訓孔子常自筮其卦得賁焉愀然有不平之状子張進曰師聞卜者得賁卦吉也而夫子之色有不平何也孔子對曰以其離耶在周易山}
+  - {type: punctuation, offset: 396, content: ，, id: KR3a0001_CHANT_002-bkkpn88}
+  - {type: 'tls:seg', offset: 396, content: '', id: KR3a0001_CHANT_002-2a.23}
+  - {type: variant, offset: 396, length: 0, content: '', SBCK: 有火謂之賁爲火艮爲山離上艮下離}
+  - {type: variant, offset: 396, length: 0, content: '', WYG: 有火謂之賁离下艮上离為火艮為山}
+  - {type: page-break, offset: 396, content: '', id: KR3a0001_WYG_002-15a, image: WYG0695/WYG0695-0023c.png}
+  - {type: variant, offset: 396, length: 0, content: '', krp: 有火謂之賁爲火艮爲山離上艮下離}
+  - {type: variant, offset: 397, length: 1, content: 理, SBCK: 正色之卦也夫質也黑白宜正焉今得賁非吾兆也飾賁吾聞丹􅃮不文白玉不雕何也質有餘不受飾故也孔子曰吾於甘棠見宗廟之敬甚矣其樹作甘棠之詩也邵伯聽訟於甘棠愛思其人必愛其樹尊其人必敬其位道也子路戎服見於孔子㧞劒而舞之曰古之君子以劒自衛乎孔子曰古之君子忠以為質仁以為衛不出環堵之室而知千里之外有不善則以忠化之侵暴則以仁固之何持劒乎子路曰由乃今聞此言請攝齊以受教教者攝齊升堂齊裳下緝也受楚王出遊亡弓左右請求之王曰止楚王失弓楚人得之又何求之孔子聞之惜乎其不大}
+  - {type: page-break, offset: 397, content: '', id: KR3a0001_SBCK_002-18a}
+  - {type: page-break, offset: 397, content: '', id: KR3a0001_SBCK_002-18b}
+  - {type: variant, offset: 397, length: 1, content: 理, WYG: 正色之卦也夫質也白宜正白黑宜正黑今得賁非吾吉也賁飾吾聞丹􅃮不文白玉不雕何也質有餘不受飾故也孔子曰吾於甘棠見宗廟之敬也甚矣召伯聽訟於甘棠愛其樹作甘棠之詩也思其人必愛其樹尊其人必敬其位道也子路戎服見於孔子㧞劍而舞之曰古之君子以劍自衛乎孔子曰古之君子忠以為質仁以為衛不出環堵之室而知千里之外有不善則以忠化之侵㬥則以仁固之何持劍乎子路曰由乃今聞此言請攝齊以受教齊裳不緝也受教者攝齊升堂楚恭王出遊亡烏嘷之弓良弓之名左右請求之王曰止楚王失弓楚人得之又何求之孔子聞之惜乎其不大}
+  - {type: page-break, offset: 397, content: '', id: KR3a0001_WYG_002-15b, image: WYG0695/WYG0695-0023d.png}
+  - {type: variant, offset: 397, length: 1, content: 理, krp: 正色之卦也夫質也黑白宜正焉今得賁非吾兆也飾賁吾聞丹􅃮不文白玉不雕何也質有餘不受飾故也孔子曰吾於甘棠見宗廟之敬甚矣其樹作甘棠之詩也邵伯聽訟於甘棠愛思其人必愛其樹尊其人必敬其位道也子路戎服見於孔子㧞劒而舞之曰古之君子以劒自衛乎孔子曰古之君子忠以為質仁以為衛不出環堵之室而知千里之外有不善則以忠化之侵暴則以仁固之何持劒乎子路曰由乃今聞此言請攝齊以受教教者攝齊升堂齊裳下緝也受楚王出遊亡弓左右請求之王曰止楚王失弓楚人得之又何求之孔子聞之惜乎其不大}
+  - {type: line-break, offset: 398, content: '', id: SBCK_001-6a.06}
+  - {type: punctuation, offset: 399, content: ；, id: KR3a0001_CHANT_002-bkkpn89}
+  - {type: 'tls:seg', offset: 399, content: '', id: KR3a0001_CHANT_002-2a.24}
+  - {type: variant, offset: 400, length: 1, content: 教, SBCK: 曰人遺弓人得之而已何必楚也嘷之良弓王恭王弓鳥孔子爲魯司冦斷獄訟皆進衆議者而問之曰子}
+  - {type: variant, offset: 400, length: 1, content: 教, WYG: 曰人遺弓人得之而已何必楚也孔子為魯司冦斷獄訟皆進衆議者而問之曰子}
+  - {type: variant, offset: 400, length: 1, content: 教, krp: 曰人遺弓人得之而已何必楚也嘷之良弓王恭王弓鳥孔子爲魯司冦斷獄訟皆進衆議者而問之曰子}
+  - {type: variant, offset: 402, length: 4, content: 孝而聽其, SBCK: 爲奚若某以爲何若皆曰云云如是然後夫子曰當從某子幾是}
+  - {type: variant, offset: 402, length: 4, content: 孝而聽其, WYG: 為奚若某以為何若皆曰云云如是然後夫子曰當從某子幾是近也重}
+  - {type: variant, offset: 402, length: 4, content: 孝而聽其, krp: 爲奚若某以爲何若皆曰云云如是然後夫子曰當從某子幾是}
+  - {type: line-break, offset: 403, content: '', id: WYG_001-5b.02}
+  - {type: punctuation, offset: 407, content: ，, id: KR3a0001_CHANT_002-bkkpn90}
+  - {type: 'tls:seg', offset: 407, content: '', id: KR3a0001_CHANT_002-2a.25}
+  - {type: variant, offset: 407, length: 4, content: 是殺不辜, SBCK: 事故近}
+  - {type: variant, offset: 407, length: 25, content: 是殺不辜也三軍大敗不可斬也獄犴不治不可刑也何者上教, WYG: 事故與衆議}
+  - {type: variant, offset: 407, length: 4, content: 是殺不辜, krp: 事故近}
+  - {type: punctuation, offset: 412, content: ；, id: KR3a0001_CHANT_002-bkkpn91}
+  - {type: 'tls:seg', offset: 412, content: '', id: KR3a0001_CHANT_002-2a.26}
+  - {type: variant, offset: 412, length: 20, content: 三軍大敗不可斬也獄犴不治不可刑也何者上教, SBCK: 重議}
+  - {type: variant, offset: 412, length: 20, content: 三軍大敗不可斬也獄犴不治不可刑也何者上教, krp: 重議}
+  - {type: line-break, offset: 415, content: '', id: SBCK_001-6a.07}
+  - {type: punctuation, offset: 416, content: ，, id: KR3a0001_CHANT_002-bkkpn92}
+  - {type: 'tls:seg', offset: 416, content: '', id: KR3a0001_CHANT_002-2a.27}
+  - {type: punctuation, offset: 420, content: ；, id: KR3a0001_CHANT_002-bkkpn93}
+  - {type: 'tls:seg', offset: 420, content: '', id: KR3a0001_CHANT_002-2a.28}
+  - {type: punctuation, offset: 424, content: ，, id: KR3a0001_CHANT_002-bkkpn94}
+  - {type: 'tls:seg', offset: 424, content: '', id: KR3a0001_CHANT_002-2a.29}
+  - {type: line-break, offset: 425, content: '', id: WYG_001-5b.03}
+  - {type: punctuation, offset: 428, content: 。, id: KR3a0001_CHANT_002-bkkpn95}
+  - {type: 'tls:seg', offset: 428, content: '', id: KR3a0001_CHANT_002-2a.30}
+  - {type: punctuation, offset: 430, content: ？, id: KR3a0001_CHANT_002-bkkpn96}
+  - {type: 'tls:seg', offset: 430, content: '', id: KR3a0001_CHANT_002-2a.31}
+  - {type: line-break, offset: 431, content: '', id: SBCK_001-6a.08}
+  - {type: variant, offset: 433, length: 29, content: 不行罪不在民故也夫慢令謹誅賊也徵歛無時㬥也不試則成虐也故無, SBCK: 與衆孔子問漆雕憑曰子事臧文仲武仲及孺子容}
+  - {type: page-break, offset: 433, content: '', id: KR3a0001_SBCK_002-19a}
+  - {type: variant, offset: 433, length: 29, content: 不行罪不在民故也夫慢令謹誅賊也徵歛無時㬥也不試則成虐也故無, WYG: 孔子問漆雕憑曰子事臧文仲武仲及孺子容}
+  - {type: variant, offset: 433, length: 29, content: 不行罪不在民故也夫慢令謹誅賊也徵歛無時㬥也不試則成虐也故無, krp: 與衆孔子問漆雕憑曰子事臧文仲武仲及孺子容}
+  - {type: punctuation, offset: 435, content: ，, id: KR3a0001_CHANT_002-bkkpn97}
+  - {type: 'tls:seg', offset: 435, content: '', id: KR3a0001_CHANT_002-2a.32}
+  - {type: punctuation, offset: 441, content: 。, id: KR3a0001_CHANT_002-bkkpn98}
+  - {type: 'tls:seg', offset: 441, content: '', id: KR3a0001_CHANT_002-2a.33}
+  - {type: punctuation, offset: 446, content: ，, id: KR3a0001_CHANT_002-bkkpn99}
+  - {type: 'tls:seg', offset: 446, content: '', id: KR3a0001_CHANT_002-2a.34}
+  - {type: line-break, offset: 446, content: '', id: WYG_001-5b.04}
+  - {type: line-break, offset: 447, content: '', id: SBCK_001-6a.09}
+  - {type: line-break, offset: 447, content: '', id: WYG_001-5b.04_dup2}
+  - {type: punctuation, offset: 448, content: ；, id: KR3a0001_CHANT_002-bkkpn100}
+  - {type: line-break, offset: 448, content: '', id: WYG_001-5b.04_dup3}
+  - {type: 'tls:seg', offset: 448, content: '', id: KR3a0001_CHANT_002-2a.35}
+  - {type: substitution, offset: 449, original: 歛, replacement: 斂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1114}}
+  - {type: punctuation, offset: 452, content: ，, id: KR3a0001_CHANT_002-bkkpn101}
+  - {type: 'tls:seg', offset: 452, content: '', id: KR3a0001_CHANT_002-2a.36}
+  - {type: punctuation, offset: 454, content: ；, id: KR3a0001_CHANT_002-bkkpn102}
+  - {type: 'tls:seg', offset: 454, content: '', id: KR3a0001_CHANT_002-2a.37}
+  - {type: punctuation, offset: 458, content: ，, id: KR3a0001_CHANT_002-bkkpn103}
+  - {type: 'tls:seg', offset: 458, content: '', id: KR3a0001_CHANT_002-2a.38}
+  - {type: punctuation, offset: 460, content: 。, id: KR3a0001_CHANT_002-bkkpn104}
+  - {type: 'tls:seg', offset: 460, content: '', id: KR3a0001_CHANT_002-2a.39}
+  - {type: page-break, offset: 463, content: '', id: KR3a0001_SBCK_001-6b}
+  - {type: variant, offset: 464, length: 20, content: 者然後刑可即也書云義刑義殺勿庸以即汝心惟, SBCK: 大夫孰賢對}
+  - {type: variant, offset: 464, length: 20, content: 者然後刑可即也書云義刑義殺勿庸以即汝心惟, WYG: 大夫孰賢對}
+  - {type: variant, offset: 464, length: 20, content: 者然後刑可即也書云義刑義殺勿庸以即汝心惟, krp: 大夫孰賢對}
+  - {type: punctuation, offset: 465, content: ，, id: KR3a0001_CHANT_002-bkkpn105}
+  - {type: 'tls:seg', offset: 465, content: '', id: KR3a0001_CHANT_002-2a.40}
+  - {type: line-break, offset: 467, content: '', id: WYG_001-5b.05}
+  - {type: punctuation, offset: 471, content: 。, id: KR3a0001_CHANT_002-bkkpn106}
+  - {type: 'tls:seg', offset: 471, content: '', id: KR3a0001_CHANT_002-2a.41}
+  - {type: punctuation, offset: 471, content: 《, id: KR3a0001_CHANT_002-bkkpn107}
+  - {type: punctuation, offset: 472, content: 》, id: KR3a0001_CHANT_002-bkkpn108}
+  - {type: punctuation, offset: 473, content: ：, id: KR3a0001_CHANT_002-bkkpn109}
+  - {type: 'tls:seg', offset: 473, content: '', id: KR3a0001_CHANT_002-2a.42}
+  - {type: punctuation, offset: 473, content: 『, id: KR3a0001_CHANT_002-bkkpn110}
+  - {type: punctuation, offset: 477, content: ，, id: KR3a0001_CHANT_002-bkkpn111}
+  - {type: 'tls:seg', offset: 477, content: '', id: KR3a0001_CHANT_002-2a.43}
+  - {type: line-break, offset: 479, content: '', id: SBCK_001-6b.02}
+  - {type: punctuation, offset: 483, content: ，, id: KR3a0001_CHANT_002-bkkpn112}
+  - {type: 'tls:seg', offset: 483, content: '', id: KR3a0001_CHANT_002-2a.44}
+  - {type: variant, offset: 485, length: 1, content: 未, SBCK: 臧氏家}
+  - {type: variant, offset: 485, length: 1, content: 未, WYG: 臧氏家}
+  - {type: variant, offset: 485, length: 1, content: 未, krp: 臧氏家}
+  - {type: variant, offset: 487, length: 42, content: 慎事言必教而刑也既陳道德以先服之而猶不可尚賢以勸之又不可即廢之又不可而後以威憚之若是, SBCK: 守龜焉名曰蔡文仲}
+  - {type: variant, offset: 487, length: 42, content: 慎事言必教而刑也既陳道德以先服之而猶不可尚賢以勸之又不可即廢之又不可而後以威憚之若是, WYG: 守龜焉名曰蔡文仲}
+  - {type: variant, offset: 487, length: 42, content: 慎事言必教而刑也既陳道德以先服之而猶不可尚賢以勸之又不可即廢之又不可而後以威憚之若是, krp: 守龜焉名曰蔡文仲}
+  - {type: line-break, offset: 488, content: '', id: WYG_001-5b.06}
+  - {type: punctuation, offset: 489, content: 。, id: KR3a0001_CHANT_002-bkkpn113}
+  - {type: punctuation, offset: 489, content: 』, id: KR3a0001_CHANT_002-bkkpn114}
+  - {type: 'tls:seg', offset: 489, content: '', id: KR3a0001_CHANT_002-2a.45}
+  - {type: punctuation, offset: 495, content: 。, id: KR3a0001_CHANT_002-bkkpn115}
+  - {type: 'tls:seg', offset: 495, content: '', id: KR3a0001_CHANT_002-2a.46}
+  - {type: line-break, offset: 500, content: '', id: SBCK_001-6b.05}
+  - {type: punctuation, offset: 503, content: ，, id: KR3a0001_CHANT_002-bkkpn116}
+  - {type: 'tls:seg', offset: 503, content: '', id: KR3a0001_CHANT_002-2a.47}
+  - {type: line-break, offset: 503, content: '', id: WYG_001-5b.08}
+  - {type: punctuation, offset: 507, content: ，, id: KR3a0001_CHANT_002-bkkpn117}
+  - {type: line-break, offset: 507, content: '', id: WYG_001-5b.08_dup2}
+  - {type: 'tls:seg', offset: 507, content: '', id: KR3a0001_CHANT_002-2a.48}
+  - {type: punctuation, offset: 512, content: ；, id: KR3a0001_CHANT_002-bkkpn118}
+  - {type: 'tls:seg', offset: 512, content: '', id: KR3a0001_CHANT_002-2a.49}
+  - {type: punctuation, offset: 515, content: ，, id: KR3a0001_CHANT_002-bkkpn119}
+  - {type: 'tls:seg', offset: 515, content: '', id: KR3a0001_CHANT_002-2a.50}
+  - {type: line-break, offset: 516, content: '', id: SBCK_001-6b.06}
+  - {type: punctuation, offset: 518, content: ；, id: KR3a0001_CHANT_002-bkkpn120}
+  - {type: 'tls:seg', offset: 518, content: '', id: KR3a0001_CHANT_002-2a.51}
+  - {type: punctuation, offset: 521, content: ，, id: KR3a0001_CHANT_002-bkkpn121}
+  - {type: 'tls:seg', offset: 521, content: '', id: KR3a0001_CHANT_002-2a.52}
+  - {type: page-break, offset: 524, content: '', id: KR3a0001_WYG_001-6a}
+  - {type: punctuation, offset: 527, content: 。, id: KR3a0001_CHANT_002-bkkpn122}
+  - {type: 'tls:seg', offset: 527, content: '', id: KR3a0001_CHANT_002-2a.53}
+  - {type: line-break, offset: 532, content: '', id: SBCK_001-6b.07}
+  - {type: variant, offset: 532, length: 2, content: 百姓, SBCK: 為一兆武仲三年而為二兆孺子容三年而為三兆憑從此之見若問三人之賢與不賢所未敢識也孔子曰君子哉漆雕氏之子其言人之美也隠而顯言人之過也微而著智而不能及明而不能見孰克如此宜爲如也克能也而魯公索氏反先落将祭而亡其牲孔子聞之曰公索氏不及二年将亡後一年而亡門人問曰昔公索氏亡其祭牲而夫子曰不及二年必亡今過朞而亡夫子何以知其然孔子曰夫祭者孝子所以自盡於其親将祭而亡其牲則其餘所亡者多矣若此而不亡者未之有也虞芮二國争田而訟連年不决乃相謂曰西伯仁也文王西伯盍徃質之質}
+  - {type: page-break, offset: 532, content: '', id: KR3a0001_SBCK_002-19b}
+  - {type: variant, offset: 532, length: 2, content: 百姓, WYG: 為一兆武仲三年而為二兆孺子容三年而為三兆憑從此之見若問三人之賢與不賢所未敢識也孔子曰君子哉漆雕氏之子其言人之美也隠而顯言人之過也微而著智而不能及明而不能見孰克如此克能也而宜為如也魯公索氏先落反将祭而亡其牲孔子聞之曰公索氏不及二年将亡後一年而亡門人問曰昔公索氏亡其祭牲而夫子知其将亡何也曰夫祭者孝子所以自盡於其親将祭而亡其牲則其餘所亡者多矣若此而不亡者未之有也虞芮二國争田而訟連年不決乃相謂曰西伯仁人也西伯文王盍往質之盍何不質}
+  - {type: page-break, offset: 532, content: '', id: KR3a0001_WYG_002-16a, image: WYG0695/WYG0695-0024a.png}
+  - {type: page-break, offset: 532, content: '', id: KR3a0001_WYG_002-16b, image: WYG0695/WYG0695-0024b.png}
+  - {type: variant, offset: 532, length: 2, content: 百姓, krp: 為一兆武仲三年而為二兆孺子容三年而為三兆憑從此之見若問三人之賢與不賢所未敢識也孔子曰君子哉漆雕氏之子其言人之美也隠而顯言人之過也微而著智而不能及明而不能見孰克如此宜爲如也克能也而魯公索氏反先落将祭而亡其牲孔子聞之曰公索氏不及二年将亡後一年而亡門人問曰昔公索氏亡其祭牲而夫子曰不及二年必亡今過朞而亡夫子何以知其然孔子曰夫祭者孝子所以自盡於其親将祭而亡其牲則其餘所亡者多矣若此而不亡者未之有也虞芮二國争田而訟連年不决乃相謂曰西伯仁也文王西伯盍徃質之質}
+  - {type: variant, offset: 535, length: 0, content: '', SBCK: 也盍何不入其境則耕者讓畔行者讓路入其朝士讓為大夫大夫讓于卿虞芮之君曰嘻吾儕小人也等儕不可以入君子之朝逺自相與而退咸以所争之田為閒田}
+  - {type: page-break, offset: 535, content: '', id: KR3a0001_SBCK_002-20a}
+  - {type: variant, offset: 535, length: 0, content: '', WYG: 也入其境則耕者讓畔行者讓路入其邑男女異路斑白不提挈入其朝士讓為大夫大夫讓為卿虞芮之君曰嘻吾儕小人也儕等不可以履君子之庭遂自相與而退咸以所争之田為閒田}
+  - {type: variant, offset: 535, length: 0, content: '', krp: 也盍何不入其境則耕者讓畔行者讓路入其朝士讓為大夫大夫讓于卿虞芮之君曰嘻吾儕小人也等儕不可以入君子之朝逺自相與而退咸以所争之田為閒田}
+  - {type: punctuation, offset: 536, content: 。, id: KR3a0001_CHANT_002-bkkpn123}
+  - {type: 'tls:seg', offset: 536, content: '', id: KR3a0001_CHANT_002-2a.54}
+  - {type: variant, offset: 536, length: 0, content: '', SBCK: 孔子曰以此觀之文王之道其不可加焉不令而從不教而聽至矣哉曽子曰狎甚則相簡荘甚則不親是故君子之狎足以交歡其荘足以成禮孔子聞斯言也曰二三子志之孰謂參也不知禮乎哀公問曰紳委章甫甫冠名也委委貌章有益於仁乎孔子作色而對曰君胡然焉衰麻苴杖者志不存乎樂非耳弗聞服使然也黼黻衮冕者容不襲慢非性矜莊服使然也介胃執戈者無退懦之氣非體純猛服使然也且臣聞之好肆不守折好肆不守折也言市弗能爲廉而長者不為市不爲市買之事言長者之行則竊夫}
+  - {type: page-break, offset: 536, content: '', id: KR3a0001_SBCK_002-20b}
+  - {type: variant, offset: 536, length: 0, content: '', WYG: 孔子曰以此觀之文王之道其不可加焉不令而從不教而聽至矣哉曽子曰狎甚則相簡荘甚則不親是故君子之狎足以交歡其荘足以成禮孔子聞斯言也曰二三子志之孰為參也不知禮也哀公問曰紳委章甫委委貌章甫冠名也有益於仁乎孔子作色而對曰君胡然焉衰麻苴杖者志不存乎樂非耳弗聞服使然也黼紱衮冕者容不䙝慢非性矜荘服使然也介胄執戈者無退懦之氣非體純猛服使然也且臣聞之好肆不守折言市弗能為廉好肆不守折也而長者不為市言長者之行則不為市買之事竊夫}
+  - {type: page-break, offset: 536, content: '', id: KR3a0001_WYG_002-17a, image: WYG0695/WYG0695-0024c.png}
+  - {type: variant, offset: 536, length: 0, content: '', krp: 孔子曰以此觀之文王之道其不可加焉不令而從不教而聽至矣哉曽子曰狎甚則相簡荘甚則不親是故君子之狎足以交歡其荘足以成禮孔子聞斯言也曰二三子志之孰謂參也不知禮乎哀公問曰紳委章甫甫冠名也委委貌章有益於仁乎孔子作色而對曰君胡然焉衰麻苴杖者志不存乎樂非耳弗聞服使然也黼黻衮冕者容不襲慢非性矜莊服使然也介胃執戈者無退懦之氣非體純猛服使然也且臣聞之好肆不守折好肆不守折也言市弗能爲廉而長者不為市不爲市買之事言長者之行則竊夫}
+  - {type: variant, offset: 538, length: 1, content: 邪, SBCK: 益與無益君子所以知爲察竊宜孔子謂子路曰見長者而不盡其辭雖有風雨吾不能入其門矣故君子以其所能敬人小人反是孔子謂子路曰君子以心導耳目立義以為勇小人以耳目導心不愻以為勇故曰退之而不怨先之斯可從已怨先之則可言人退之不爲師也從足以孔子曰君子三患未之聞患不得聞既得聞之患弗得學既得學之患弗能行有其德而無其言君子耻之有其言而無其行君子耻之既得之而又失之君子耻之地有餘}
+  - {type: page-break, offset: 538, content: '', id: KR3a0001_SBCK_002-21a}
+  - {type: page-break, offset: 538, content: '', id: KR3a0001_SBCK_002-21b}
+  - {type: variant, offset: 538, length: 1, content: 邪, WYG: 益與無益君子所以知竊宜為察孔子謂子路曰見長者而不盡其辭雖有風雨吾不能入其門矣故君子以其所能敬人小人反是孔子謂子路曰君子以心導耳目立義以為勇小人以耳目導心不愻以為勇故曰退之而不怨先之斯可從已言人退之不怨先之則可從足以為師也孔子曰君子有三患未之聞患不得聞既聞之患弗得學既得學之患弗能行有其德而無其言君子恥之有其言而以無其行君子恥之既得之而又失之君子恥之地有而}
+  - {type: page-break, offset: 538, content: '', id: KR3a0001_WYG_002-17b, image: WYG0695/WYG0695-0024d.png}
+  - {type: variant, offset: 538, length: 1, content: 邪, krp: 益與無益君子所以知爲察竊宜孔子謂子路曰見長者而不盡其辭雖有風雨吾不能入其門矣故君子以其所能敬人小人反是孔子謂子路曰君子以心導耳目立義以為勇小人以耳目導心不愻以為勇故曰退之而不怨先之斯可從已怨先之則可言人退之不爲師也從足以孔子曰君子三患未之聞患不得聞既得聞之患弗得學既得學之患弗能行有其德而無其言君子耻之有其言而無其行君子耻之既得之而又失之君子耻之地有餘}
+  - {type: variant, offset: 541, length: 2, content: 從化, SBCK: 足君子耻之衆寡均而人功倍已焉君子耻之而功殊倍已故耻之也凡興功業多少與人同魯人有獨處室}
+  - {type: variant, offset: 541, length: 0, content: '', WYG: 足君子恥之衆寡均而人功倍已焉君子恥之凡興功業多少與人同而功殊倍已故恥之魯人有獨處室者隣之釐婦釐寡婦也亦獨處一室夜㬥風雨至釐婦室壊趨而託焉魯人閉户而不納釐婦自牖與之言子何不仁而不納我乎魯人曰吾聞男子不六十不間居今子㓜吾亦㓜是以不敢納爾也婦人曰子何不如柳下惠然嫗不逮門之女國人不稱其亂魯人曰柳下惠則可吾固不可吾将以吾之不可學柳下惠之可孔子聞之曰善哉欲學柳下惠者未有似於此者期於至善而不襲其為可謂智乎孔子曰小辯害義小言破道闗雎興于鳥而君子美之取其雄雌之有别鹿鳴興于獸而君子大之取其得食而相呼若以鳥獸之名嫌之固不可行也孔子謂子路曰君子而强氣則不得其死小人而强氣則刑戮薦臻豳詩曰迨天之未隂雨徹彼桑土綢繆牖户迨及也徹剥也桑土桑根也鴟鴞天未雨剥取桑根以纒綿其牖户喻我國家積累之功乃難成之若此也今汝下民或敢侮余今者周公時言我先祖致此大功至艱而下民敢侵侮我周道謂管蔡之亂不可不遏絶之以存周室者也孔子曰能治國家之如此雖欲侮之豈可得乎周自后稷積行累功以有爵土公劉重之以仁及至大王亶父敦以德讓其樹根置本備豫逺矣初大王都豳狄人侵之事之以皮幣不得免焉事之以珠玉不得免焉於是屬耆老而告之所欲吾土地吾聞之君子不以所養而害人二三子何患乎無君遂獨與大姜去之踰梁山邑於岐山之下豳人曰仁人之君不可失也}
+  - {type: page-break, offset: 541, content: '', id: KR3a0001_WYG_002-18a, image: WYG0695/WYG0695-0025a.png}
+  - {type: page-break, offset: 541, content: '', id: KR3a0001_WYG_002-18b, image: WYG0695/WYG0695-0025b.png}
+  - {type: page-break, offset: 541, content: '', id: KR3a0001_WYG_002-19a, image: WYG0695/WYG0695-0025c.png}
+  - {type: variant, offset: 541, length: 2, content: 從化, krp: 足君子耻之衆寡均而人功倍已焉君子耻之而功殊倍已故耻之也凡興功業多少與人同魯人有獨處室}
+  - {type: variant, offset: 542, length: 0, content: '', WYG: 之如歸市焉天之與周民之去殷久矣若此而不能天下未之有也武庚惡能侮武庚紂子名禄父與管蔡共為亂也鄁詩曰執轡如組兩驂如儛驂之以服和諧中節孔子曰為此詩者其知政乎夫為組者總紕於此成文於彼言其動於近行於逺也執此法以御民豈不}
+  - {type: page-break, offset: 542, content: '', id: KR3a0001_WYG_002-19b, image: WYG0695/WYG0695-0025d.png}
+  - {type: variant, offset: 543, length: 0, content: '', WYG: 乎竿旄之忠告至矣哉竿旄之詩}
+  - {type: punctuation, offset: 544, content: ，, id: KR3a0001_CHANT_002-bkkpn124}
+  - {type: 'tls:seg', offset: 544, content: '', id: KR3a0001_CHANT_002-2a.55}
+  - {type: variant, offset: 544, length: 0, content: '', SBCK: 鄰之釐婦婦也􅁵寡亦獨處一室夜暴風雨至釐婦室壊趨而託焉魯人閉戶而不納釐婦自牖與之言何不仁而不納我乎魯人曰吾聞男女不六十不同居今子㓜吾亦幼是以不敢納爾也婦人曰子何不如柳下惠}
+  - {type: variant, offset: 544, length: 0, content: '', WYG: 樂乎善道告人取喻於素絲良馬如組紕之義家語卷二欽定四庫全書家語卷三魏王肅註觀周第十一孔子謂南宫敬叔曰吾聞老聃博古知今敬叔孟僖子子也老聃老子博古知今而好道通禮樂之原明道徳之歸則吾師也今將往矣對曰謹受命遂言於魯君曰臣受先臣之命先臣僖子云孔子聖人之後也聖人殷湯滅於宋孔子之先去宋奔魯故曰滅於宋也其祖弗父何始有國而受厲公弗父何緍公世子厲公兄也讓國以授厲公春秋傳曰以有宋而授厲公有者始有也始有宋也及正考父佐戴武宣正考父何之曽孫也戴武宣三公也三命兹益恭命為士一命為大夫再命為卿三命是也故其鼎銘曰臣有功徳君命銘之於其宗廟之鼎也一命而僂再命而傴三命而俯傴㳟於僂俯㳟於傴循墻而走言㳟之甚亦莫余敢侮余我也我考父也以其恭如此故人亦莫之侮饘於是粥於是以餬其口饘糜也為糜粥於此鼎言至儉也其恭儉也若此臧孫紇有言聖人之後若不當世紇威武仲弗父何殷湯之後而不繼世為宋君則必有明徳而達者焉孔子少而好禮其將在矣將在孔子屬臣汝必師之今孔子將適周觀先生之遺制考禮樂之所極斯大業也君盍以乗資之臣請與往公曰諾與孔子車一乗馬二匹豎子侍御敬叔與俱至周問禮於老聃訪樂於萇𢎞𢎞周大夫歴郊社之所考明堂之則則法察廟朝之度宗廟朝廷之法度也於是喟然曰吾乃今知周公之聖與周之所以王也及去周老子送之曰吾聞富貴者送人以財仁者送人以言吾雖不能富貴而竊仁者之號請送子以言乎凡當今之士聰明深察而近於死者好譏議人者也博辯閎達而危其身好發人之惡者也無以有已為人子者身父母之有也無以惡已為人臣者言聴則仕不用則退保身全行臣之節也孔子曰敬奉敎自周反魯道彌尊矣逺方弟子之進葢三千焉孔子觀乎明堂覩四門墉有堯舜與桀紂之象而各有善惡之状興廢之誡焉又有周公相成王抱之負斧扆南靣以朝諸侯之圖焉世之博學者謂周公便履天子之位失之逺矣孔子徘徊而望之謂從者曰此周公所以盛也夫明鏡所以察形往古者所以知今人主不務襲迹於其所以安存而急急所以危亡是猶未有以異於却走而欲求及前人也豈不惑哉孔子觀周遂入太祖后稷之廟廟堂右階之前有金人焉參緘其口而銘其背曰古之慎言人也戒之哉無多言多言多敗無多事多事多患安樂必戒雖處安樂必警戒也無所行悔言當詳而後行所悔之事不可復行勿謂何傷其禍將長勿謂何害其禍將大勿謂不聞神將伺人熖熖不滅炎炎若何涓涓不壅終為江河綿綿不絶或成網羅綿綿微細若不絶則有成羅網者也毫末不札將尋斧柯如毫之末言至微也札拔也尋用也誠能慎之福之根也口是何傷禍之門也强梁者不得其死好勝者必遇其敵盜憎主人民怨其上君子知天下之不可上也故下之知衆人之不可先也故後之温恭慎徳使人慕之執雌持下人莫踰之人皆趨彼我獨守此人皆或之我獨不徙或之東西轉移之貌内藏我智不示人技我雖尊髙人弗我害誰能於此江海雖左長於百川以其卑也水隂長右海江雖在於其左而能為百川長以其能下天道無親而能下人戒之哉孔子既讀斯文也顧謂弟子曰小子識之音志此言實而中情而信詩云戰戰兢兢如臨深淵如履薄冰戰戰恐也兢兢戒也恐墜也恐䧟也行身如此豈以口過患哉孔子見老聃而問焉曰甚矣道之於今難行也吾比執道而今委質以求當世之君而弗受也道於今難行也老子曰夫説者流於辯流猶過也失也聴者亂於辭知此二者則道不可以忘也弟子行第十二衛將軍文子衛卿名彌牟也問於子貢曰吾聞孔子之施敎也先之以詩書導之以孝悌説之以仁義觀之以禮樂}
+  - {type: page-break, offset: 544, content: '', id: KR3a0001_WYG_003-1a, image: WYG0695/WYG0695-0026a.png}
+  - {type: page-break, offset: 544, content: '', id: KR3a0001_WYG_003-1b, image: WYG0695/WYG0695-0026b.png}
+  - {type: page-break, offset: 544, content: '', id: KR3a0001_WYG_003-2a, image: WYG0695/WYG0695-0027a.png}
+  - {type: page-break, offset: 544, content: '', id: KR3a0001_WYG_003-2b, image: WYG0695/WYG0695-0027b.png}
+  - {type: page-break, offset: 544, content: '', id: KR3a0001_WYG_003-3a, image: WYG0695/WYG0695-0027c.png}
+  - {type: page-break, offset: 544, content: '', id: KR3a0001_WYG_003-3b, image: WYG0695/WYG0695-0027d.png}
+  - {type: page-break, offset: 544, content: '', id: KR3a0001_WYG_003-4a, image: WYG0695/WYG0695-0028a.png}
+  - {type: page-break, offset: 544, content: '', id: KR3a0001_WYG_003-4b, image: WYG0695/WYG0695-0028b.png}
+  - {type: variant, offset: 544, length: 0, content: '', krp: 鄰之釐婦婦也釐寡亦獨處一室夜暴風雨至釐婦室壊趨而託焉魯人閉戶而不納釐婦自牖與之言何不仁而不納我乎魯人曰吾聞男女不六十不同居今子㓜吾亦幼是以不敢納爾也婦人曰子何不如柳下惠}
+  - {type: line-break, offset: 545, content: '', id: WYG_001-6a.02}
+  - {type: variant, offset: 545, length: 2, content: 後待, SBCK: 嫗不逮門之女國人不稱其亂魯人曰柳下惠則可吾固不可吾将以吾之不可學柳下惠之可孔子聞之曰善哉欲學柳下惠者未有似於此者期於至善而不襲其為可謂智乎孔子曰小辯害義小言破道關雎興于鳥而君子美之取其雄雌之有别鹿鳴興於獸而君子大之取其得食而相呼若以鳥獸之名嫌之固不可行也孔子謂子路曰君子而强氣則不得其死小人而强氣則刑戮荐蓁􅃎詩曰殆天之未隂雨徹彼桑土綢繆牖戶也桑土桑根殆及也徹剥喻我國家積累之功乃難成之苦者也也鴟鴞天未雨剥取桑根以􅆞綿其牖戸今汝下民或敢侮余王致此大功至艱而今者周公時言我先不可不遏絶}
+  - {type: page-break, offset: 545, content: '', id: KR3a0001_SBCK_002-22a}
+  - {type: page-break, offset: 545, content: '', id: KR3a0001_SBCK_002-22b}
+  - {type: variant, offset: 545, length: 2, content: 後待, krp: 嫗不逮門之女國人不稱其亂魯人曰柳下惠則可吾固不可吾将以吾之不可學柳下惠之可孔子聞之曰善哉欲學柳下惠者未有似於此者期於至善而不襲其為可謂智乎孔子曰小辯害義小言破道關雎興于鳥而君子美之取其雄雌之有别鹿鳴興於獸而君子大之取其得食而相呼若以鳥獸之名嫌之固不可行也孔子謂子路曰君子而强氣則不得其死小人而强氣則刑戮荐蓁豳詩曰殆天之未隂雨徹彼桑土綢繆牖戶也桑土桑根殆及也徹剥喻我國家積累之功乃難成之苦者也也鴟鴞天未雨剥取桑根以纏綿其牖戸今汝下民或敢侮余王致此大功至艱而今者周公時言我先不可不遏絶}
+  - {type: variant, offset: 546, length: 1, content: 待, WYG: 成}
+  - {type: line-break, offset: 548, content: '', id: SBCK_001-6b.08}
+  - {type: variant, offset: 549, length: 2, content: 刑則, SBCK: 存周室者也下}
+  - {type: variant, offset: 549, length: 4, content: 刑則民咸, WYG: 文徳葢入室升堂者七十有餘人其孰為賢子貢對以不}
+  - {type: variant, offset: 549, length: 2, content: 刑則, krp: 存周室者也下}
+  - {type: punctuation, offset: 550, content: ，, id: KR3a0001_CHANT_002-bkkpn125}
+  - {type: 'tls:seg', offset: 550, content: '', id: KR3a0001_CHANT_002-2a.56}
+  - {type: variant, offset: 552, length: 3, content: 咸知罪, SBCK: 敢侵侮我周道謂管蔡之屬孔子曰能治國家之如此雖欲侮之豈可得乎周自后稷積行累功以有爵土公劉重之以仁及至大王亶甫敦以德讓其樹根置本備豫逺}
+  - {type: variant, offset: 552, length: 3, content: 咸知罪, krp: 敢侵侮我周道謂管蔡之屬孔子曰能治國家之如此雖欲侮之豈可得乎周自后稷積行累功以有爵土公劉重之以仁及至大王亶甫敦以德讓其樹根置本備豫逺}
+  - {type: variant, offset: 554, length: 2, content: 罪矣, WYG: 文子曰以吾子常與學賢者也何為不知子貢對曰賢人無妄賢人無妄妄言舉動不知賢即難故君子之言曰智莫難於知人是以難對也文子曰若夫知賢莫不難今吾子親遊焉是以敢問子貢曰夫子之門人葢有三千就焉賜有逮及焉未逮及焉故不得徧知以告也文子曰吾子所及者請聞其行子貢對曰夫能夙興夜寐諷誦崇禮行不貳過貳再也有不善未甞不知知之未甞復行也稱言不苟舉言典法不苟且也是顔囘之行也孔子説之以}
+  - {type: page-break, offset: 554, content: '', id: KR3a0001_WYG_003-5a, image: WYG0695/WYG0695-0028c.png}
+  - {type: punctuation, offset: 556, content: 。, id: KR3a0001_CHANT_002-bkkpn126}
+  - {type: 'tls:seg', offset: 556, content: '', id: KR3a0001_CHANT_002-2a.57}
+  - {type: punctuation, offset: 556, content: 《, id: KR3a0001_CHANT_002-bkkpn127}
+  - {type: variant, offset: 556, length: 2, content: 詩云, SBCK: 初大王都􅃎翟人侵之事之以皮幣不得免焉事之以珠玉不得免焉於是屬耆老而告之所欲吾土地吾聞之君子不以所養而害人二三子何患乎無君遂獨與大姜去之踰梁山邑于岐山之下􅃎人曰仁人之君不可失也從之如歸市焉}
+  - {type: page-break, offset: 556, content: '', id: KR3a0001_SBCK_002-23a}
+  - {type: variant, offset: 556, length: 2, content: 詩云, krp: 初大王都豳翟人侵之事之以皮幣不得免焉事之以珠玉不得免焉於是屬耆老而告之所欲吾土地吾聞之君子不以所養而害人二三子何患乎無君遂獨與大姜去之踰梁山邑于岐山之下豳人曰仁人之君不可失也從之如歸市焉}
+  - {type: punctuation, offset: 557, content: 》, id: KR3a0001_CHANT_002-bkkpn128}
+  - {type: variant, offset: 557, length: 1, content: 云, WYG: 曰媚兹一人應侯慎徳一人}
+  - {type: punctuation, offset: 558, content: ：, id: KR3a0001_CHANT_002-bkkpn129}
+  - {type: 'tls:seg', offset: 558, content: '', id: KR3a0001_CHANT_002-2a.58}
+  - {type: punctuation, offset: 558, content: 『, id: KR3a0001_CHANT_002-bkkpn130}
+  - {type: variant, offset: 559, length: 4, content: 子是毗俾, SBCK: 之與周}
+  - {type: variant, offset: 559, length: 4, content: 子是毗俾, krp: 之與周}
+  - {type: variant, offset: 560, length: 0, content: '', WYG: 也應當也侯惟也言顔淵之徳足以媚愛天子當於其心惟慎徳永言孝思孝思維則言能長}
+  - {type: variant, offset: 561, length: 3, content: 毗俾民, WYG: 孝道足以為法則也若逄有徳之君世受顯命}
+  - {type: punctuation, offset: 562, content: ，, id: KR3a0001_CHANT_002-bkkpn131}
+  - {type: 'tls:seg', offset: 562, content: '', id: KR3a0001_CHANT_002-2a.59}
+  - {type: line-break, offset: 564, content: '', id: SBCK_001-6b.09}
+  - {type: variant, offset: 564, length: 6, content: 不迷是以威厲, SBCK: 之去殷久矣若此}
+  - {type: variant, offset: 564, length: 6, content: 不迷是以威厲, krp: 之去殷久矣若此}
+  - {type: variant, offset: 565, length: 1, content: 迷, WYG: 失厥名以御於天子則王者之相也在貧如客言不以貧累志矜荘如為客也使其臣如借言不有其臣如借使之也不遷怒不深怨不録舊罪是冉雍之行也孔子論其材曰有土之君子也有衆使也有刑用也然後稱怒焉言有土地之君有衆足使有刑足用然後可以稱怒冉雍非有土之君故使其臣如借而不加怒也孔子告之以詩曰靡不有初鮮克有終冉雍能終其行匹夫不怒唯以亡其身因説不怒之義遂及匹夫以怒亡身不畏强禦不侮矜寡其言循性循其性也而言不誣其情其都以富仲由長於政事材任治戎戎軍旅也是仲由之行也孔子和之以文説之以詩曰受小共大共而為下國駿庬荷天子之龍孔子曰和仲由以文説之以詩此其義也其法也駿大也庬厚也龍和也言受大小法為下國大厚乃可任天下道也不戁不悚敷奏其勇戁恐悚懼敷陳奏薦强乎武哉文不勝其質言子路强勇文不勝其質恭老䘏㓜不忘賓旅賔旅謂寄客也好學博藝省物而勤也省録諸事而能勤也是冉求之行也孔子因而語之曰好學則智恤孤則惠恭則近禮勤則有繼堯舜篤恭以王天下其稱之也曰宜為國老國老助宣徳敎齋莊而能肅志通而好禮儐相两君之事篤雅有節是公西赤之行也子曰禮經三百可勉能也禮經三百可勉學而能知威儀三千則難也能躬行三千之威儀則難可為而公西赤能躬行之公西赤問曰何謂也子曰貌以儐禮禮以儐辭是謂難焉言所以為者當觀容貌而儐相其禮度其禮而儐相其辭度事制冝故難也衆人聞之以為成也孔子語人曰當賔客之事則達矣衆人聞公西赤能行三千之威儀故以為成也孔子曰當賔客之事則達未盡達於治國之本體也謂門人曰二三子之欲學賔客之禮者其於赤也滿而不盈實而如虚過之如不及先王難之盈而如虚過而不及是先王之所難而曽參體其行博無不學其貌恭其徳敦其言於人也無所不信其驕大人也常以浩浩浩然志大驕大貌也大人富貴者也}
+  - {type: page-break, offset: 565, content: '', id: KR3a0001_WYG_003-5b, image: WYG0695/WYG0695-0028d.png}
+  - {type: page-break, offset: 565, content: '', id: KR3a0001_WYG_003-6a, image: WYG0695/WYG0695-0029a.png}
+  - {type: page-break, offset: 565, content: '', id: KR3a0001_WYG_003-6b, image: WYG0695/WYG0695-0029b.png}
+  - {type: punctuation, offset: 566, content: 。, id: KR3a0001_CHANT_002-bkkpn132}
+  - {type: punctuation, offset: 566, content: 』, id: KR3a0001_CHANT_002-bkkpn133}
+  - {type: 'tls:seg', offset: 566, content: '', id: KR3a0001_CHANT_002-2a.60}
+  - {type: variant, offset: 568, length: 2, content: 威厲, WYG: 眉夀不慕富貴安静虚無所以為之富貴是曾參之行也孔子曰孝徳之始也悌徳之序也悌以敬長是徳之次序也信徳之厚也忠徳之正也參中夫四徳者也以此稱之美功不伐貴位不善不侮不佚侮佚貪功慕勢之貌不傲無告鰥寡孤獨此四者天民之窮}
+  - {type: page-break, offset: 568, content: '', id: KR3a0001_WYG_003-7a, image: WYG0695/WYG0695-0029c.png}
+  - {type: page-break, offset: 571, content: '', id: KR3a0001_SBCK_001-7a}
+  - {type: variant, offset: 571, length: 0, content: '', WYG: 無告者也子張之行}
+  - {type: variant, offset: 572, length: 4, content: 試刑錯而, SBCK: 能天下未之有也武庚惡能侮禄父與管叔武庚紂子名亂也共爲鄁詩曰執轡如組兩驂如儛服和調驂之以節中孔子曰為此詩者其知政乎夫為組者㥎紕於此成文於彼言其動於近行於逺也執此法以御民豈}
+  - {type: page-break, offset: 572, content: '', id: KR3a0001_SBCK_002-23b}
+  - {type: variant, offset: 572, length: 85, content: 試刑錯而不用今世則不然亂其教繁其刑使民迷惑而陷焉又從而制之故刑彌繁而盜不勝也夫三尺之限空車不能登者何哉峻故也百仞之山重載陟焉何哉陵遟故也今世俗之陵遟久矣雖有刑法民能勿踰乎, WYG: 傲此四}
+  - {type: variant, offset: 572, length: 4, content: 試刑錯而, krp: 能天下未之有也武庚惡能侮禄父與管叔武庚紂子名亂也共爲鄁詩曰執轡如組兩驂如儛服和調驂之以節中孔子曰為此詩者其知政乎夫為組者㥎紕於此成文於彼言其動於近行於逺也執此法以御民豈}
+  - {type: punctuation, offset: 573, content: ，, id: KR3a0001_CHANT_002-bkkpn134}
+  - {type: 'tls:seg', offset: 573, content: '', id: KR3a0001_CHANT_002-2a.61}
+  - {type: variant, offset: 577, length: 23, content: 用今世則不然亂其教繁其刑使民迷惑而陷焉又從而制, SBCK: 化乎竿旄}
+  - {type: variant, offset: 577, length: 23, content: 用今世則不然亂其教繁其刑使民迷惑而陷焉又從而制, krp: 化乎竿旄}
+  - {type: punctuation, offset: 578, content: 。, id: KR3a0001_CHANT_002-bkkpn135}
+  - {type: 'tls:seg', offset: 578, content: '', id: KR3a0001_CHANT_002-2a.62}
+  - {type: line-break, offset: 578, content: '', id: WYG_001-6a.04}
+  - {type: punctuation, offset: 583, content: ，, id: KR3a0001_CHANT_002-bkkpn136}
+  - {type: line-break, offset: 583, content: '', id: WYG_001-6a.04_dup2}
+  - {type: 'tls:seg', offset: 583, content: '', id: KR3a0001_CHANT_002-2a.63}
+  - {type: punctuation, offset: 586, content: ，, id: KR3a0001_CHANT_002-bkkpn137}
+  - {type: 'tls:seg', offset: 586, content: '', id: KR3a0001_CHANT_002-2a.64}
+  - {type: line-break, offset: 587, content: '', id: SBCK_001-7a.02}
+  - {type: punctuation, offset: 589, content: ，, id: KR3a0001_CHANT_002-bkkpn138}
+  - {type: 'tls:seg', offset: 589, content: '', id: KR3a0001_CHANT_002-2a.65}
+  - {type: punctuation, offset: 596, content: ，, id: KR3a0001_CHANT_002-bkkpn139}
+  - {type: 'tls:seg', offset: 596, content: '', id: KR3a0001_CHANT_002-2a.66}
+  - {type: line-break, offset: 599, content: '', id: WYG_001-6a.05}
+  - {type: punctuation, offset: 601, content: ，, id: KR3a0001_CHANT_002-bkkpn140}
+  - {type: 'tls:seg', offset: 601, content: '', id: KR3a0001_CHANT_002-2a.67}
+  - {type: variant, offset: 601, length: 12, content: 故刑彌繁而盜不勝也夫三尺, SBCK: 忠告至矣哉喻於素絲良馬如組紕}
+  - {type: variant, offset: 601, length: 12, content: 故刑彌繁而盜不勝也夫三尺, krp: 忠告至矣哉喻於素絲良馬如組紕}
+  - {type: line-break, offset: 603, content: '', id: SBCK_001-7a.03}
+  - {type: punctuation, offset: 610, content: 。, id: KR3a0001_CHANT_002-bkkpn141}
+  - {type: 'tls:seg', offset: 610, content: '', id: KR3a0001_CHANT_002-2a.68}
+  - {type: variant, offset: 614, length: 6, content: 限空車不能登, SBCK: 義竿旄之詩}
+  - {type: variant, offset: 614, length: 6, content: 限空車不能登, krp: 義竿旄之詩}
+  - {type: punctuation, offset: 615, content: ，, id: KR3a0001_CHANT_002-bkkpn142}
+  - {type: 'tls:seg', offset: 615, content: '', id: KR3a0001_CHANT_002-2a.69}
+  - {type: line-break, offset: 619, content: '', id: SBCK_001-7a.04}
+  - {type: line-break, offset: 620, content: '', id: WYG_001-6a.06}
+  - {type: punctuation, offset: 621, content: ，, id: KR3a0001_CHANT_002-bkkpn143}
+  - {type: 'tls:seg', offset: 621, content: '', id: KR3a0001_CHANT_002-2a.70}
+  - {type: variant, offset: 621, length: 35, content: 何哉峻故也百仞之山重載陟焉何哉陵遟故也今世俗之陵遟久矣雖有刑法民能勿踰, SBCK: 樂}
+  - {type: variant, offset: 621, length: 35, content: 何哉峻故也百仞之山重載陟焉何哉陵遟故也今世俗之陵遟久矣雖有刑法民能勿踰, krp: 樂}
+  - {type: punctuation, offset: 623, content: ？, id: KR3a0001_CHANT_002-bkkpn144}
+  - {type: 'tls:seg', offset: 623, content: '', id: KR3a0001_CHANT_002-2a.71}
+  - {type: punctuation, offset: 626, content: ；, id: KR3a0001_CHANT_002-bkkpn145}
+  - {type: 'tls:seg', offset: 626, content: '', id: KR3a0001_CHANT_002-2a.72}
+  - {type: punctuation, offset: 630, content: ，, id: KR3a0001_CHANT_002-bkkpn146}
+  - {type: 'tls:seg', offset: 630, content: '', id: KR3a0001_CHANT_002-2a.73}
+  - {type: punctuation, offset: 634, content: ，, id: KR3a0001_CHANT_002-bkkpn147}
+  - {type: 'tls:seg', offset: 634, content: '', id: KR3a0001_CHANT_002-2a.74}
+  - {type: line-break, offset: 635, content: '', id: SBCK_001-7a.05}
+  - {type: punctuation, offset: 636, content: ？, id: KR3a0001_CHANT_002-bkkpn148}
+  - {type: 'tls:seg', offset: 636, content: '', id: KR3a0001_CHANT_002-2a.75}
+  - {type: substitution, offset: 637, original: 遟, replacement: 遲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3562}}
+  - {type: punctuation, offset: 640, content: 。, id: KR3a0001_CHANT_002-bkkpn149}
+  - {type: line-break, offset: 640, content: '', id: WYG_001-6a.07}
+  - {type: 'tls:seg', offset: 640, content: '', id: KR3a0001_CHANT_002-2a.76}
+  - {type: substitution, offset: 645, original: 遟, replacement: 遲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3562}}
+  - {type: punctuation, offset: 648, content: ，, id: KR3a0001_CHANT_002-bkkpn150}
+  - {type: 'tls:seg', offset: 648, content: '', id: KR3a0001_CHANT_002-2a.77}
+  - {type: line-break, offset: 648, content: '', id: SBCK_001-7a.06}
+  - {type: punctuation, offset: 652, content: ，, id: KR3a0001_CHANT_002-bkkpn151}
+  - {type: line-break, offset: 652, content: '', id: SBCK_001-7a.06_dup2}
+  - {type: 'tls:seg', offset: 652, content: '', id: KR3a0001_CHANT_002-2a.78}
+  - {type: punctuation, offset: 657, content: ？, id: KR3a0001_CHANT_002-bkkpn152}
+  - {type: punctuation, offset: 657, content: 」, id: KR3a0001_CHANT_002-bkkpn153}
+  - {type: xml-element, offset: 657, content: '', id: KR3a0001_CHANT_002-bkkxmlele4}
+  - {type: variant, offset: 657, length: 0, content: '', SBCK: 善道告人取孔子家語卷第二}
+  - {type: variant, offset: 657, length: 0, content: '', krp: 善道告人取孔子家語卷第二}
+  back: []
+hash: sha256:da9602c8d6a92fd137447c7118d8d7d614bd3a1245bfb51f9e969e64d6775d83

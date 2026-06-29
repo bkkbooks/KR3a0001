@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3a0001/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 孔子家語
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 03:46:53.501255'
+  source:
+    repository: kanripo
+    path: KR3a0001/KR3a0001_000.txt
+hash: sha256:8c5de417a334f9d604911aec97eb231ca7f10061a742e20e3e26c250bd0e8f85
