@@ -20,7 +20,6 @@ markers:
   - {type: variant, offset: 7, length: 5, content: 閑居曾參侍, WYG: 言之曰其不伐則猶可能也其不弊百姓則仁也不弊愚百姓即所謂不傲之也詩云愷悌君子民之父母愷樂也悌易也樂以强敎之易以悦安之民皆有父之尊母之親也夫子以其仁為大學之深學而能入其深義也送迎必敬送迎賔客常能敬也上交下接若截焉是卜商之行也孔子説之以詩曰式夷式已無小人殆式用夷平也言用平則已也殆危者無以小人至於危也若商也其可謂不險矣險危也言子夏常厲以斷之近小人斯不危貴之不喜賤之不怒苟利於民矣廉於行已其事上也以佑其下言所以事上乃欲佑助其下也是澹臺㓕明之行也}
   - {type: page-break, offset: 7, content: '', id: KR3a0001_WYG_003-7b, image: WYG0695/WYG0695-0029d.png}
   - {type: variant, offset: 7, length: 2, content: 閑居, krp: 謂南宫敬叔曰吾聞老聃博古知今老子博古知今而好道敬叔孟僖子子也老𥅆通禮樂之原明道徳之歸則吾師也今將徃矣對曰謹受命遂言於魯君曰臣受先臣之命僖子先臣云孔子聖人之後也殷湯聖人滅於宋宋奔魯故曰孔子之先去宋也滅於其祖弗父何始有國而授厲公何緡弗父曰以有宋而授厲公宜始始也始有宋也公世子厲公兄也讓國以授厲公春秋傳及正考父佐戴武宣也戴武宣三公也正考父何之}
-  - {type: substitution, offset: 7, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4095}}
   - {type: punctuation, offset: 9, content: ，, id: KR3a0001_CHANT_003-bkkpn1}
   - {type: line-break, offset: 9, content: '', id: SBCK_001-7a.08_dup2}
   - {type: page-break, offset: 9, content: '', id: KR3a0001_WYG_001-6b}
@@ -346,7 +345,6 @@ markers:
   - {type: punctuation, offset: 192, content: ；, id: KR3a0001_CHANT_003-bkkpn52}
   - {type: 'tls:seg', offset: 192, content: '', id: KR3a0001_CHANT_003-2a.17}
   - {type: line-break, offset: 193, content: '', id: SBCK_001-8a.02}
-  - {type: substitution, offset: 196, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 198, content: ，, id: KR3a0001_CHANT_003-bkkpn53}
   - {type: 'tls:seg', offset: 198, content: '', id: KR3a0001_CHANT_003-2a.18}
   - {type: variant, offset: 201, length: 102, content: 道治之不可以致霸王是故昔者明王內修七教外行三至七教修然後可以守三至行然後可以征明王之道其守也則必折衝千里之外其征也則必還師衽席之上故曰內修七教而上不勞外行三至而財不費此之謂明王之道也曾子曰不勞不費之謂明王, SBCK: 善}
@@ -561,7 +559,6 @@ markers:
   - {type: line-break, offset: 504, content: '', id: SBCK_001-9a.04}
   - {type: punctuation, offset: 511, content: ，, id: KR3a0001_CHANT_003-bkkpn129}
   - {type: 'tls:seg', offset: 511, content: '', id: KR3a0001_CHANT_003-2a.86}
-  - {type: substitution, offset: 514, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3880}}
   - {type: punctuation, offset: 515, content: ，, id: KR3a0001_CHANT_003-bkkpn130}
   - {type: 'tls:seg', offset: 515, content: '', id: KR3a0001_CHANT_003-2a.87}
   - {type: line-break, offset: 515, content: '', id: WYG_001-8a.02}
@@ -946,7 +943,6 @@ markers:
   - {type: line-break, offset: 1256, content: '', id: WYG_001-10a.06}
   - {type: punctuation, offset: 1258, content: ，, id: KR3a0001_CHANT_003-bkkpn273}
   - {type: 'tls:seg', offset: 1258, content: '', id: KR3a0001_CHANT_003-2a.217}
-  - {type: substitution, offset: 1261, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 1262, content: ，, id: KR3a0001_CHANT_003-bkkpn274}
   - {type: 'tls:seg', offset: 1262, content: '', id: KR3a0001_CHANT_003-2a.218}
   - {type: punctuation, offset: 1271, content: 。, id: KR3a0001_CHANT_003-bkkpn275}
@@ -955,4 +951,4 @@ markers:
   - {type: page-break, offset: 1271, content: '', id: KR3a0001_SBCK_003-23a}
   - {type: page-break, offset: 1271, content: '', id: KR3a0001_SBCK_003-24a}
   back: []
-hash: sha256:e94dd78e9ee265479d9caed6f36a30945546ca7cfda56a916d52ab60ce2b800d
+hash: sha256:5bc44cd7e059d0031e9a5fb0a9fdcc3e7806f8d9b4a4576fbc65abde8973c04c

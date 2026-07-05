@@ -184,8 +184,6 @@ markers:
   - {type: punctuation, offset: 147, content: ，, id: KR3a0001_CHANT_002-bkkpn34}
   - {type: 'tls:seg', offset: 147, content: '', id: KR3a0001_CHANT_002-1a.29}
   - {type: line-break, offset: 150, content: '', id: WYG_001-4b.05}
-  - {type: substitution, offset: 150, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
-  - {type: substitution, offset: 152, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 153, content: ，, id: KR3a0001_CHANT_002-bkkpn35}
   - {type: 'tls:seg', offset: 153, content: '', id: KR3a0001_CHANT_002-1a.30}
   - {type: punctuation, offset: 159, content: ，, id: KR3a0001_CHANT_002-bkkpn36}
@@ -213,8 +211,6 @@ markers:
   - {type: line-break, offset: 192, content: '', id: SBCK_001-5a.09}
   - {type: punctuation, offset: 196, content: ，, id: KR3a0001_CHANT_002-bkkpn42}
   - {type: 'tls:seg', offset: 196, content: '', id: KR3a0001_CHANT_002-1a.37}
-  - {type: substitution, offset: 202, original: 襃, replacement: 褒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1497}}
-  - {type: substitution, offset: 204, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 205, content: ，, id: KR3a0001_CHANT_002-bkkpn43}
   - {type: 'tls:seg', offset: 205, content: '', id: KR3a0001_CHANT_002-1a.38}
   - {type: page-break, offset: 207, content: '', id: KR3a0001_SBCK_001-5b}
@@ -263,7 +259,6 @@ markers:
   - {type: variant, offset: 254, length: 3, content: 產誅史, SBCK: 子曰此所謂萍實者也草也萍水可剖而食之吉祥也唯霸者爲能獲焉使者反王遂食之大美久之使來以告魯大夫大夫因子游問曰夫子}
   - {type: variant, offset: 254, length: 3, content: 產誅史, WYG: 子曰此所謂萍實者也萍水草也可剖而食之吉祥也唯霸者為能獲焉使者返王遂食之大美久之使来以告魯大夫大夫因子游問曰夫子}
   - {type: variant, offset: 254, length: 3, content: 產誅史, krp: 子曰此所謂萍實者也草也萍水可剖而食之吉祥也唯霸者爲能獲焉使者反王遂食之大美久之使來以告魯大夫大夫因子游問曰夫子}
-  - {type: substitution, offset: 254, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 258, content: ，, id: KR3a0001_CHANT_002-bkkpn52}
   - {type: 'tls:seg', offset: 258, content: '', id: KR3a0001_CHANT_002-1a.47}
   - {type: variant, offset: 258, length: 1, content: 凡, SBCK: 以知其然乎曰吾昔之鄭過乎陳之野聞童謠曰楚王渡江得萍實大如斗赤如日剖而食之甜如蜜}
@@ -325,11 +320,9 @@ markers:
   - {type: punctuation, offset: 285, content: 『, id: KR3a0001_CHANT_002-bkkpn59}
   - {type: punctuation, offset: 289, content: ，, id: KR3a0001_CHANT_002-bkkpn60}
   - {type: 'tls:seg', offset: 289, content: '', id: KR3a0001_CHANT_002-1a.52}
-  - {type: substitution, offset: 291, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 293, content: 。, id: KR3a0001_CHANT_002-bkkpn61}
   - {type: punctuation, offset: 293, content: 』, id: KR3a0001_CHANT_002-bkkpn62}
   - {type: 'tls:seg', offset: 293, content: '', id: KR3a0001_CHANT_002-1a.53}
-  - {type: substitution, offset: 296, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 297, content: ，, id: KR3a0001_CHANT_002-bkkpn63}
   - {type: 'tls:seg', offset: 297, content: '', id: KR3a0001_CHANT_002-1a.54}
   - {type: line-break, offset: 297, content: '', id: WYG_001-5a.05}
@@ -515,7 +508,6 @@ markers:
   - {type: punctuation, offset: 448, content: ；, id: KR3a0001_CHANT_002-bkkpn100}
   - {type: line-break, offset: 448, content: '', id: WYG_001-5b.04_dup3}
   - {type: 'tls:seg', offset: 448, content: '', id: KR3a0001_CHANT_002-2a.35}
-  - {type: substitution, offset: 449, original: 歛, replacement: 斂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1114}}
   - {type: punctuation, offset: 452, content: ，, id: KR3a0001_CHANT_002-bkkpn101}
   - {type: 'tls:seg', offset: 452, content: '', id: KR3a0001_CHANT_002-2a.36}
   - {type: punctuation, offset: 454, content: ；, id: KR3a0001_CHANT_002-bkkpn102}
@@ -717,11 +709,9 @@ markers:
   - {type: line-break, offset: 635, content: '', id: SBCK_001-7a.05}
   - {type: punctuation, offset: 636, content: ？, id: KR3a0001_CHANT_002-bkkpn148}
   - {type: 'tls:seg', offset: 636, content: '', id: KR3a0001_CHANT_002-2a.75}
-  - {type: substitution, offset: 637, original: 遟, replacement: 遲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3562}}
   - {type: punctuation, offset: 640, content: 。, id: KR3a0001_CHANT_002-bkkpn149}
   - {type: line-break, offset: 640, content: '', id: WYG_001-6a.07}
   - {type: 'tls:seg', offset: 640, content: '', id: KR3a0001_CHANT_002-2a.76}
-  - {type: substitution, offset: 645, original: 遟, replacement: 遲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3562}}
   - {type: punctuation, offset: 648, content: ，, id: KR3a0001_CHANT_002-bkkpn150}
   - {type: 'tls:seg', offset: 648, content: '', id: KR3a0001_CHANT_002-2a.77}
   - {type: line-break, offset: 648, content: '', id: SBCK_001-7a.06}
@@ -734,4 +724,4 @@ markers:
   - {type: variant, offset: 657, length: 0, content: '', SBCK: 善道告人取孔子家語卷第二}
   - {type: variant, offset: 657, length: 0, content: '', krp: 善道告人取孔子家語卷第二}
   back: []
-hash: sha256:da9602c8d6a92fd137447c7118d8d7d614bd3a1245bfb51f9e969e64d6775d83
+hash: sha256:3213c017710c9a26ec0363273cce32f3599cb3dcba2c9f5ff5fe8146eec4bddb
