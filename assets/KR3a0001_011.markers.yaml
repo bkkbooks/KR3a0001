@@ -105,6 +105,7 @@ markers:
   - {type: punctuation, offset: 87, content: ，, id: KR3a0001_CHANT_011-bkkpn24}
   - {type: line-break, offset: 87, content: '', id: WYG_003-1b.03}
   - {type: 'tls:seg', offset: 87, content: '', id: KR3a0001_CHANT_011-1a.19}
+  - {type: substitution, offset: 89, original: 玆, replacement: 茲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19436}}
   - {type: line-break, offset: 91, content: '', id: SBCK_003-1b.02}
   - {type: punctuation, offset: 92, content: 。, id: KR3a0001_CHANT_011-bkkpn25}
   - {type: 'tls:seg', offset: 92, content: '', id: KR3a0001_CHANT_011-1a.20}
@@ -134,6 +135,7 @@ markers:
   - {type: line-break, offset: 124, content: '', id: SBCK_003-1b.06_dup2}
   - {type: 'tls:seg', offset: 124, content: '', id: KR3a0001_CHANT_011-1a.28}
   - {type: variant, offset: 125, length: 19, content: 餬其口其恭儉也若此臧孫紇有言聖人之後若, WYG: ''}
+  - {type: substitution, offset: 125, original: 餬, replacement: 糊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17752}}
   - {type: punctuation, offset: 128, content: 。, id: KR3a0001_CHANT_011-bkkpn35}
   - {type: punctuation, offset: 128, content: 』, id: KR3a0001_CHANT_011-bkkpn36}
   - {type: 'tls:seg', offset: 128, content: '', id: KR3a0001_CHANT_011-1a.29}
@@ -255,6 +257,7 @@ markers:
   - {type: 'tls:seg', offset: 326, content: '', id: KR3a0001_CHANT_011-1a.67}
   - {type: punctuation, offset: 332, content: ；, id: KR3a0001_CHANT_011-bkkpn84}
   - {type: 'tls:seg', offset: 332, content: '', id: KR3a0001_CHANT_011-1a.68}
+  - {type: substitution, offset: 333, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: line-break, offset: 335, content: '', id: SBCK_003-2b.03}
   - {type: punctuation, offset: 340, content: ，, id: KR3a0001_CHANT_011-bkkpn85}
   - {type: 'tls:seg', offset: 340, content: '', id: KR3a0001_CHANT_011-1a.69}
@@ -494,6 +497,7 @@ markers:
   - {type: punctuation, offset: 612, content: ；, id: KR3a0001_CHANT_011-bkkpn139}
   - {type: line-break, offset: 612, content: '', id: WYG_003-3a.08_dup3}
   - {type: 'tls:seg', offset: 612, content: '', id: KR3a0001_CHANT_011-3a.27}
+  - {type: substitution, offset: 615, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 616, content: ，, id: KR3a0001_CHANT_011-bkkpn140}
   - {type: 'tls:seg', offset: 616, content: '', id: KR3a0001_CHANT_011-3a.28}
   - {type: punctuation, offset: 620, content: ，, id: KR3a0001_CHANT_011-bkkpn141}
@@ -543,6 +547,7 @@ markers:
   - {type: page-break, offset: 679, content: '', id: KR3a0001_SBCK_003-4a}
   - {type: 'tls:seg', offset: 679, content: '', id: KR3a0001_CHANT_011-3a.41}
   - {type: variant, offset: 679, length: 86, content: 知眾人之不可先也故後之溫恭慎德使人慕之執雌持下人莫踰之人皆趨彼我獨守此人皆或之我獨不徙內藏我智不示人技我雖尊高人弗我害誰能於此江海雖左長於百川以其卑也天道無親而能下人戒之哉, WYG: 并春秋戰國秦漢間文字載有}
+  - {type: substitution, offset: 680, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 687, content: ，, id: KR3a0001_CHANT_011-bkkpn154}
   - {type: 'tls:seg', offset: 687, content: '', id: KR3a0001_CHANT_011-3a.42}
   - {type: punctuation, offset: 690, content: 。, id: KR3a0001_CHANT_011-bkkpn155}
@@ -665,6 +670,8 @@ markers:
   - {type: 'tls:seg', offset: 859, content: '', id: KR3a0001_CHANT_011-4a.12}
   - {type: line-break, offset: 859, content: '', id: SBCK_003-4b.05}
   - {type: punctuation, offset: 859, content: 「, id: KR3a0001_CHANT_011-bkkpn204}
+  - {type: substitution, offset: 860, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
+  - {type: substitution, offset: 864, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 865, content: ，, id: KR3a0001_CHANT_011-bkkpn205}
   - {type: 'tls:seg', offset: 865, content: '', id: KR3a0001_CHANT_011-4a.13}
   - {type: line-break, offset: 867, content: '', id: WYG_003-4a.06}
@@ -684,4 +691,4 @@ markers:
   - {type: page-break, offset: 881, content: '', id: KR3a0001_SBCK_011-3a}
   - {type: variant, offset: 881, length: 0, content: '', krp: 然此書乃孔氏久成之典余距孔氏一千五百餘年序之僭妄深矣觀者勿以無取尤之}
   back: []
-hash: sha256:ab4f27a2e967d740f2012613eb7a188beb8a0e08caaaa0e413528626cc5b7fbe
+hash: sha256:5fdbd403cbef98208bc0ef09672e4dc607a7fc81529184c5c739a1e9fa79df1f
